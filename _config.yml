@@ -52,6 +52,7 @@ defaults:
     values:
       layout: "page"
       hero_image: /assets/escher-ants.jpg
+      hero_darken: true
   -
     scope:
       path: ""
