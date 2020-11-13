@@ -13,20 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Stefano Mariani's website
+email: stefano.mariani@unimore.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Computer science, engineering, raising kids, dinosaurs, videogames, and whatever else according to Stefano Mariani's perspective :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: stemarO_O
+github_username:  smarianimore
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
@@ -41,3 +40,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+paginate: 5
+paginate_path: "/blog/page:num"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      hero_image: /assets/escher-ants.jpg
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      hero_image: /assets/escher-ants.jpg
+      hero_darken: true
