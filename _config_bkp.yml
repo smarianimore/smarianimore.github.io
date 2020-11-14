@@ -21,16 +21,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stemarO_O
 github_username:  smarianimore
-repository: "A2HC2021/a2hc2021.github.io"
 
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin: "mint" # aqua
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -44,47 +41,23 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include: ["_pages"]
+paginate: 5
+paginate_path: "/blog/page:num"
 
 defaults:
-  # _pages
-  - scope:
+  -
+    scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: single
-      author_profile: true
-      classes: wide
-      header:
-        overlay_color: "#000"
-        overlay_filter: "0.5"
-        overlay_image: /assets/escher-ants.jpg
-  # _posts
-  - scope:
+      layout: "page"
+      hero_image: /assets/escher-ants.jpg
+      hero_darken: true
+  -
+    scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
-      classes: wide
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      show_date: true
-
-search: true
-timezone: Europe/Rome
-#teaser: /assets/escher-ants.jpg
-#logo: "/assets/images/logo-img.png"
-
-author:
-  name        : "Stefano Mariani"
-  avatar      : "/assets/me-face.png"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:stefano.mariani@unimore.it"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/stemarO_O"
+      layout: "post"
+      hero_image: /assets/escher-ants.jpg
+      hero_darken: true

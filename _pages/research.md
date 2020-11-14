@@ -1,7 +1,6 @@
 ---
 title: "Research themes"
-toc: true
-show_sidebar: false
+permalink: /research/
 ---
 
 My research activity revolves around two prominent themes: how to best **coordinate** an ensamble of digital entities towards a systemic goal, and how to provide **"intelligent" support** to human activities through digital tools.
