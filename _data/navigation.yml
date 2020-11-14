@@ -1,5 +1,7 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "On the web"
+    url: /ontheweb/
   - title: "Blog"
     url: /blog/

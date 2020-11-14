@@ -13,7 +13,7 @@ On my spare time (lol) I enjoy music, basketball, and being a father of two---al
 
 Now, back to business.
 
-## Current positions
+## Current position
 
  - Fixed-term post-doc researcher at the Department of Sciences and Methods for Engineering of the University of Modena and Reggio Emilia, Italy
  - Adjunct professor for the course of [Fundamentals of Programming](https://dolly.ingre.unimore.it/2020/course/view.php?id=132)[^1] in the Bachelor Degree in Management Engineering of the same University
