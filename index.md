@@ -28,4 +28,4 @@ Now, back to business.
  - Seminar about blockchain technology for the course of Distributed Artificial Intelligence at the Master degree in Computer Engineering at the University of Modena and Reggio Emilia
  - Seminar about blockchain technology for the course of Avanced Information Systems at the Master degree in Management Engineering at the University of Modena and Reggio Emilia
 
-[^1]: Scroll down to guest login, use "Goedel" as key on next page guest login.
+[^1]: If prompted for login, use guest login with key *Goedel*.
