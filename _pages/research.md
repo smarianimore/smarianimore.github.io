@@ -1,9 +1,11 @@
 ---
 title: "Research themes"
 permalink: /research/
-#toc: true
-#toc_icon: "fas fa-book-open"
+toc: true
+toc_icon: "fas fa-book-open"
 ---
+
+## Overview
 
 My research activity revolves around two prominent themes: how to best **coordinate** an ensamble of digital entities towards a systemic goal, and how to provide **"intelligent" support** to human activities through digital tools.
 
@@ -37,8 +39,8 @@ As such, I'm doing (or did) research activities in the following fields:
 
 **Reference publications**:
  - [Coordination in Socio-technical Systems: Where are we now? Where do we go next?](https://doi.org/10.1016/j.scico.2019.102317) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [An Argumentation-Based Perspective Over the Social IoT](10.1109/JIOT.2017.2775047)
- - [Coordination of Complex Sociotechnical Systems: Self-organisation of Knowledge in MoK]() (book)
+ - [An Argumentation-Based Perspective Over the Social IoT](https://rdcu.be/caUtN)
+ - [Coordination of Complex Sociotechnical Systems: Self-organisation of Knowledge in MoK](https://doi.org/10.1007/978-3-319-47109-9) (book)
 
 [^1]: According to my own interpretation, briefly: *systems featuring "humans-in-the-loop" which are not merely users but actively contribute in the system's own functioning*. For the original definition see [Trist](https://www.lmmiller.com/blog/wp-content/uploads/2013/06/The-Evolution-of-Socio-Technical-Systems-Trist.pdf) and [Baxter-Sommerville](https://ieeexplore.ieee.org/abstract/document/8147295) (paywall).
 
@@ -59,10 +61,34 @@ As such, I'm doing (or did) research activities in the following fields:
 
 **Reference publications**:
  - [Coordinating Distributed Speaking Objects](https://doi.org/10.1007/978-3-030-34914-1_17) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [Spatial Tuples: Augmenting Reality with Tuples](https://doi.org/10.1111/exsy.12273) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Spatial Tuples: Augmenting Reality with Tuples](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12273) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
  - [Logic Programming as a Service](https://doi.org/10.1017/S1471068418000364)
 
 ## Decision support systems in healthcare
 
-Work in progress
-{: .notice--info}
+<figure style="width: 50%" class="align-left">
+  <a href=""><img src="{{ site.url }}{{ site.baseurl }}/assets/dss.png" alt="A novel decision support system architecture helps scientists and clinicians collaboration."></a>
+  <figcaption>The novel decision support system architecture designed during the <a href="https://connecare.eu">Connecare project</a>.</figcaption>
+</figure>
+
+**Problem**: Designing decision support systems for the healthcare domain is difficult for many reasons, amongst which
+ 1. support *portability* of the machine learning *pipeline*
+ 2. optimise the trade-off between well-assessed *best practices* and *patient-specific data*
+ 3. guarantee *interpretable* suggestions.
+
+**Solution**: Respectively
+ 1. rely on well-assessed *software engineering* principles
+ 2. design a coherent conceptual and technological framework for the broad domain of so-called *cognitive systems*
+ 3. adopt transparent and *explainable* algorithms.
+
+**Goal**: Extend *adoption* and improve *performance* of decision support systems in healthcare
+
+**Methods**: Again, respectively
+ 1. rely on *standards* such as [PFA](http://dmg.org/pfa/) for machine learning pipelines representation and sharing and prefer *web* technologies for deployment
+ 2. integrate the *BDI* agent architecture with *machine learning* methods
+ 3. prefer explainable algorithms or adopt *argumentation*
+
+**Reference publications**:
+ - [Complementing Agents with Cognitive Services: A Case Study in Healthcare](https://rdcu.be/caUsH)
+ - [Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration](https://doi.org/10.1109/CBMS.2019.00069) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Towards Argumentation-based Recommendations for Personalised Patient Empowerment](http://ceur-ws.org/Vol-1953/healthRecSys17_paper_4.pdf)
