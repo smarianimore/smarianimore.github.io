@@ -72,21 +72,21 @@ As such, I'm doing (or did) research activities in the following fields:
 </figure>
 
 **Problem**: Designing decision support systems for the healthcare domain is difficult for many reasons, amongst which
- 1. support *portability* of the machine learning *pipeline*
- 2. optimise the trade-off between well-assessed *best practices* and *patient-specific data*
- 3. guarantee *interpretable* suggestions.
+    (1) support *portability* of the machine learning *pipeline*
+    (2) optimise the trade-off between well-assessed *best practices* and *patient-specific data*
+    (3) guarantee *interpretable* suggestions.
 
 **Solution**: Respectively
- 1. rely on well-assessed *software engineering* principles
- 2. design a coherent conceptual and technological framework for the broad domain of so-called *cognitive systems*
- 3. adopt transparent and *explainable* algorithms.
+    (1) rely on well-assessed *software engineering* principles
+    (2) design a coherent conceptual and technological framework for the broad domain of so-called *cognitive systems*
+    (3) adopt transparent and *explainable* algorithms.
 
 **Goal**: Extend *adoption* and improve *performance* of decision support systems in healthcare
 
 **Methods**: Again, respectively
- 1. rely on *standards* such as [PFA](http://dmg.org/pfa/) for machine learning pipelines representation and sharing and prefer *web* technologies for deployment
- 2. integrate the *BDI* agent architecture with *machine learning* methods
- 3. prefer explainable algorithms or adopt *argumentation*
+    (1) rely on *standards* such as [PFA](http://dmg.org/pfa/) for machine learning pipelines representation and sharing and prefer *web* technologies for deployment
+    (2) integrate the *BDI* agent architecture with *machine learning* methods
+    (3) prefer explainable algorithms or adopt *argumentation*
 
 **Reference publications**:
  - [Complementing Agents with Cognitive Services: A Case Study in Healthcare](https://rdcu.be/caUsH)
