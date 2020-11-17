@@ -1,5 +1,6 @@
 ---
 title: "New PhD course online"
+excerpt: ""
 tags:
   - autonomous systems
   - blockchain
