@@ -17,4 +17,6 @@ Dive into the interactive presentation [here](https://smarianimore.github.io/phd
 
 The course is delivered in the context of the XXXVI Cycle of the **Doctorate School in Industrial Innovation Engineering**, University of Modena and Reggio Emilia.
 
+Peace.
+
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/phd-asb-2020.png)
