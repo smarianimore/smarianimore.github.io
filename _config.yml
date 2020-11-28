@@ -18,7 +18,7 @@ email: stefano.mariani@unimore.it
 description: >- # this means to ignore newlines until "baseurl:"
   Computer science, engineering, raising kids, dinosaurs, videogames, and whatever else according to Stefano Mariani's perspective :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://smarianimore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stemarO_O
 github_username:  smarianimore
 repository: "smarianimore/smarianimore.github.io"
