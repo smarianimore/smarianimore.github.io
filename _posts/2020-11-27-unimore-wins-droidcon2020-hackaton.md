@@ -31,4 +31,6 @@ Be sure to checkout our *demo video* if interested!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3sy8gz_XTvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br />
+
 And [contact me](mailto:stefano.mariani@unimore.it) for any further inquiry :)
