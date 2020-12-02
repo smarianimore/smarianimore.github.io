@@ -15,7 +15,7 @@ header:
 
 I'm happy to announce that me and [Marco Picone](https://marcopicone.net) from UniMore won the [DroidCon2020 MEC hackaton](https://it.droidcon.com/2020/hackathon/)!
 
-![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/hackaton.png)
+<a href="https://it.droidcon.com/2020/hackathon/">![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/hackaton.png)</a>
 
 Our project on **Cognitive Mobility** exploiting **5G MEC architecture** to deliver *low-latency location-based* event notifications about traffic, congestion forecast, and mobility patterns has been awarded by the international jury with the 1st place :)
 
