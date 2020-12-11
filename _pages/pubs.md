@@ -112,10 +112,10 @@ Enjoy :)
  
 **2014**
  
- - [[C17]](http://dx.doi.org/10.1109/UCC.2014.59) 2014. *"Coordination-aware Elasticity."* Proceedings of the 7th International Conference on Utility and Cloud Computing. IEEE.
- - [[C16]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84919754957) 2014. *"TuCSoN Coordination for MAS Situatedness: Towards a Methodology."* Proceedings of the XV Workshop "From Objects to Agents". CEUR Workshop Proceedings.
- - [[C15]](http://dx.doi.org/10.1007/978-3-319-11692-1_9) 2014. *"Coordination in Situated Systems: Engineering MAS Environment in TuCSoN."* Lecture Notes in Computer Science. Springer.
- - [[C14]](http://dx.doi.org/10.1109/SASOW.2014.14) 2014. *"On the 'Local-to-Global' Issue in Self-Organisation: Chemical Reactions with Custom Kinetic Rates."* Proceedings of the Eighth IEEE International Conference on Self-Adaptive and Self-Organizing Systems Workshops. IEEE.
+ - [[C17]](http://dx.doi.org/10.1109/UCC.2014.59) *"Coordination-aware Elasticity."* Proceedings of the 7th International Conference on Utility and Cloud Computing. IEEE.
+ - [[C16]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84919754957) *"TuCSoN Coordination for MAS Situatedness: Towards a Methodology."* Proceedings of the XV Workshop "From Objects to Agents". CEUR Workshop Proceedings.
+ - [[C15]](http://dx.doi.org/10.1007/978-3-319-11692-1_9) *"Coordination in Situated Systems: Engineering MAS Environment in TuCSoN."* Lecture Notes in Computer Science. Springer.
+ - [[C14]](http://dx.doi.org/10.1109/SASOW.2014.14) *"On the 'Local-to-Global' Issue in Self-Organisation: Chemical Reactions with Custom Kinetic Rates."* Proceedings of the Eighth IEEE International Conference on Self-Adaptive and Self-Organizing Systems Workshops. IEEE.
  
 **2013**
  
@@ -133,8 +133,8 @@ Enjoy :)
  
 **2012**
  
- - [[C2]](http://dx.doi.org/10.1109/SASOW.2012.48) 2012. *"Self-Organising News Management: The Molecules of Knowledge Approach."* Proceedings of the Sixth International Conference on Self-Adaptive and Self-Organizing Systems Workshops. IEEE.
- - [[C1]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84891823324) 2012. *"Molecules of Knowledge: A Novel Perspective over Knowledge Management."* Doctoral Consortium of the 12th Symposium of the Italian Association for Artificial Intelligence. CEUR Workshop Proceedings.
+ - [[C2]](http://dx.doi.org/10.1109/SASOW.2012.48) *"Self-Organising News Management: The Molecules of Knowledge Approach."* Proceedings of the Sixth International Conference on Self-Adaptive and Self-Organizing Systems Workshops. IEEE.
+ - [[C1]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84891823324) *"Molecules of Knowledge: A Novel Perspective over Knowledge Management."* Doctoral Consortium of the 12th Symposium of the Italian Association for Artificial Intelligence. CEUR Workshop Proceedings.
 
 ### Others
 
@@ -153,7 +153,8 @@ Under construction
 
 ### Conferences
 
-
+**2012**
+ - [[C1]]({{ site.url }}/downloads/MO-ASENSIS2012.pdf) *"Self-Organising News Management: The Molecules of Knowledge Approach."* 1st International Workshop on Adaptive Service Ecosystems: Natural and Socially Inspired Solutions. Lyon, France, 10/09/2012.
 
 ### Seminars
 
