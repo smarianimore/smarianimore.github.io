@@ -3,5 +3,7 @@ main:
     url: /research/
   - title: "On the web"
     url: /ontheweb/
+  - title: "Publications"
+    url: /pubs/
   - title: "Blog"
     url: /blog/

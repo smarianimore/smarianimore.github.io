@@ -1,5 +1,5 @@
 ---
-title: "On the web"
+title: "Me, on the web"
 permalink: /ontheweb/
 ---
 
@@ -24,4 +24,3 @@ Me according to popular digital libraries, bibliography portals, and academia so
  <a href="https://academic.microsoft.com/author/2238227854" title="Microsoft Academic"><i class="fab fa-microsoft"></i> Microsoft Academic </a>{: .btn  .btn--info}
  <a href="https://www.mendeley.com/profiles/stefano-mariani3/publications/" title="Mendeley"><i class="fab fa-mendeley"></i> Mendeley </a>{: .btn  .btn--info}
 
-Also, legacy UNIBO page: [stefanomariani.apice.unibo.it](stefanomariani.apice.unibo.it) (still updated regularly).

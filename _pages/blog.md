@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Look mom: I have a blog :)"
 permalink: /blog/
 #classes: single
 ---
