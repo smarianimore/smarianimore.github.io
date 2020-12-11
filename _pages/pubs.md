@@ -154,7 +154,7 @@ Under construction
 ### Conferences
 
 **2012**
- - [[C1]]({{ site.url }}/downloads/MO-ASENSIS2012.pdf) *"Self-Organising News Management: The Molecules of Knowledge Approach."* 1st International Workshop on Adaptive Service Ecosystems: Natural and Socially Inspired Solutions. Lyon, France, 10/09/2012.
+ - [[C1]]({{ site.url }}/assets/talks/MO-ASENSIS2012.pdf) *"Self-Organising News Management: The Molecules of Knowledge Approach."* 1st International Workshop on Adaptive Service Ecosystems: Natural and Socially Inspired Solutions. Lyon, France, 10/09/2012.
 
 ### Seminars
 
