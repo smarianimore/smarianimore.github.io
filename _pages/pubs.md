@@ -122,7 +122,7 @@ Enjoy :)
  - [[C13]](http://dx.doi.org/10.1145/2480362.2480621) *"Probabilistic Embedding: Experiments with Tuple-based Probabilistic Languages."* Proceedings of the 28th ACM Symposium on Applied Computing. ACM.
  - [[C12]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84892634950) *"Tuple-based Coordination of Stochastic Systems with Uniform Primitives."* Proceedings of the 14th Workshop "From Objects to Agents". CEUR Workshop Proceedings.
  - [[C11]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84924977807) *"Coordination for Situated MAS: Towards an Event-driven Architecture."* Proceedings of the International Workshop on Petri Nets and Software Engineering. CEUR Workshop Proceedings.
- - [[C10]]() *"Promoting Space-Aware Coordination: ReSpecT as a Spatial-Computing Virtual Machine."* Proceedings of the 6th International Spatial Computing Workshop. International Foundation for Autonomous Agents and Multiagent Systems.
+ - [[C10]] *"Promoting Space-Aware Coordination: ReSpecT as a Spatial-Computing Virtual Machine."* Proceedings of the 6th International Spatial Computing Workshop. International Foundation for Autonomous Agents and Multiagent Systems.
  - [[C9]](http://dx.doi.org/10.1007/978-3-642-38493-6_11) *"Probabilistic Modular Embedding for Stochastic Coordinated Systems."* Lecture Notes in Computer Science. Springer.
  - [[C8]](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-84894174065) *"MoK: Stigmergy Meets Chemistry to Exploit Social Actions for Coordination Purposes."* Proceedings of the Social Coordination: Principles, Artifacts and Theories Symposium. The Society for the Study of Artificial Intelligence and the Simulation of Behaviour.
  - [[C7]](http://dx.doi.org/10.1007/978-3-319-03889-6_33) *"TuCSoN on Cloud: An Event- driven Architecture for Embodied / Disembodied Coordination."* Lecture Notes in Computer Science. Springer.
@@ -148,22 +148,58 @@ Enjoy :)
 
 ## Talks
 
-Under construction
-{: .notice--info} 
-
 ### Conferences
 
+**2019**
+
+ - [[C16]](https://smarianimore.github.io/idcs2019/?print-pdf) *"Argumentation-based Coordination in IoT: a Speaking Objects Proof-of-Concept."* 12th International Conference on Internet and Distributed Computing Systems. Napoli, Italy, 10/10/2019. *([interactive version](https://smarianimore.github.io/idcs2019/))*
+ - [[C15]](https://smarianimore.github.io/cbms-2019/?print-pdf) *"Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration."* 32nd IEEE International Symposium on Computer-Based Medical Systems. Cordoba, Spain, 07/06/2019. *([interactive version](https://smarianimore.github.io/cbms-2019/))*
+
+**2018**
+
+ - [[C14]]({{ site.url }}/assets/talks/talk-invited.pdf) *"Coordination of Complex Socio-technical Systems: Challenges and Opportunities."* 16th International workshop on Foundations of Coordination Languages and Self-adaptative Systems. Toulouse, France, 26/06/2018. *(invited keynote)*
+ - [[C13]]({{ site.url }}/assets/talks/talk.pdf) *"Twenty Years of Coordination Technologies: State-of-the-Art and Perspectives."* 20th International Conference on Coordination Models and Languages. Madrid, Spain, 18/06/2018.
+
+**2017**
+
+ - [[C12]]({{ site.url }}/assets/talks/CMO-IDC2017.pdf) *"Programming the Interaction Space Effectively with ReSpecTX."* 11th International Symposium on Intelligent Distributed Computing. Belgrade, Serbia, 12/10/2017.
+
+**2015**
+
+ - [[C11]]({{ site.url }}/assets/talks/long-prezi.pdf) *"Anticipatory Coordination in Socio-technical Knowledge-intensive Environments: Behavioural Implicit Communication in MoK."* XIV Conference of the Italian Association for Artificial Intelligence. Ferrara, Italy, 24/09/2015. *([interactive version](https://prezi.com/u_mbtmknenll/anticipatory-coordination/?utm_campaign=share&utm_medium=copy))*
+ - [[C10]]({{ site.url }}/assets/talks/OFM-COORDINATION2015.pdf) *"Blending Event-Based and Multi-Agent Systems around Coordination Abstractions."* 17th International Conference on Coordination Models and Languages. Grenoble, France, 03/06/2015.
+
+**2014**
+
+ - [[C9]]({{ site.url }}/assets/talks/M-FOCAS2014.pdf) *"On the 'Local-to-Global' Issue in Self-Organisation: Chemical Reactions with Custom Kinetic Rates."* 2nd Workshop on Fundamentals of Collective Adaptive Systems. London, UK, 08/09/2014.
+ - [[C8]]({{ site.url }}/assets/talks/MOS-IDC2014.pdf) *"Models of Autonomy and Coordination: Integrating Subjective & Objective Approaches in Agent Development Frameworks."* 8th International Symposium on Intelligent Distributed Computing. Madrid, Spain, 03/09/2014.
+
+**2013**
+
+ - [[C7]]({{ site.url }}/assets/talks/M-WOA2013.pdf) *"Parameter Engineering vs. Parameter Tuning: the Case of Biochemical Coordination in MoK."* 14th Workshop Nazionale "Dagli Oggetti agli Agenti". Torino, Italy, 02/12/2013.
+ - [[C6]]({{ site.url }}/assets/talks/MO-ABCMI2013.pdf) *"Event-driven Programming for Situated MAS with ReSpecT Tuple Centres."* 4th Joint Agent-oriented Workshops in Synergy. Koblenz, Germany, 17/09/2013.
+ - [[C5]]({{ site.url }}/assets/talks/MO-COORD2013-01.pdf) *"Probabilistic Modular Embedding for Stochastic Coordinated Systems."* 15th International Conference on Coordination Models and Languages. Firenze, Italy, 04/06/2013.
+ - [[C4]]({{ site.url }}/assets/talks/MO-SCW2013.pdf) *"Promoting Space-Aware Coordination: ReSpecT as a Spatial-Computing Virtual Machine."* Spatial Computing Workshop. St. Paul, Minnesota, USA, 06/05/2013.
+ - [[C3]]({{ site.url }}/assets/talks/MO-AISB2013.pdf) *"MoK: Stigmergy Meets Chemistry to Exploit Social Actions for Coordination Purposes."* Social Coordination: Principles, Artifacts and Theories Symposium at the AISB Annual Convention. Exeter, UK, 03/04/2013.
+
 **2012**
+
+ - [[C2]]({{ site.url }}/assets/talks/MO-IDC2012.pdf) *"Molecules of Knowledge: Self-Organisation in Knowledge-Intensive Environments."* 6th International Symposium on Intelligent Distributed Computing. Amantea, Italy, 25/09/2012.
  - [[C1]]({{ site.url }}/assets/talks/MO-ASENSIS2012.pdf) *"Self-Organising News Management: The Molecules of Knowledge Approach."* 1st International Workshop on Adaptive Service Ecosystems: Natural and Socially Inspired Solutions. Lyon, France, 10/09/2012.
 
 ### Seminars
 
-
+ - [[S4]]({{ site.url }}/assets/talks/CoordinationNamur2019.pdf) 2019. *"The Quest Towards Coordination from Distributed to Socio-technical Systems."* Research day "AI: from Tutorials to Hands On". Namur, Belgium, 06/12/2019. *(invited seminar)*
+ - [[S3]]({{ site.url }}/assets/talks/TuCSoN-Namur-2016.pdf) 2016. *"Advanced Coordination Techniques: Experiments with TuCSoN and ReSpecT."* Mobile and Distributed Programming course, University of Namur. Namur, Belgium, 28/04/2016. *(invited lesson)*
+ - [[S2]]({{ site.url }}/assets/talks/MoK-CNR-2015.pdf) 2015. *"Self-organisation of Knowledge in Socio-technical Systems: A Coordination Perspective."* ISTC CNR. Rome, Italy, 06/11/2015. *(invited seminar)*
+ - [[S1]]({{ site.url }}/assets/talks/MO-Dagstuhl2014.pdf) 2014. *"Stochastic Coordination in CAS: Expressiveness & Predictability."* Collective Adaptive Systems: Qualitative and Quantitative Modelling and Analysis. Dagstuhl, Germany, 15/12/2014. *(Dagstuhl seminars)*
 
 ### Tutorials
 
-
+ - [[T1]]({{ site.url }}/assets/talks/wic-tutorial-2017.pdf) 2017. *"Nature-inspired Coordination: Current Status and Research Trends."* IEEE/WIC/ACM International Conference on Web Intelligence. Leipzig, Germany, 23/08/2017. *(invited tutorial)*
 
 ### Others
 
-
+ - [[A3]]({{ site.url }}/assets/talks/defense-talk.pdf) *"Coordination Issues in Complex Socio-technical Systems: Self-organisation of Knowledge in MoK."* PhD defense. Bologna, Italy, 12/05/2016. *([link to video missing in slides](http://youtu.be/8ibkXdukTfk))*
+ - [[A2]]({{ site.url }}/assets/talks/MoK-Wien2014.pdf) 2014. *"Molecules of Knowledge: Self-Organisation in Knowledge-Intensive Environments."* Distributed Systems Group, TU Wien, 29/04/2014. *(informal presentation during PhD visiting period)*
+ - [[A1]]({{ site.url }}/assets/talks/drawing.pdf) 2013. *"Probabilistic Embedding: Experiments with Tuple-based Probabilistic Languages."* 28th ACM Symposium on Applied Computing. Coimbra, Portugal, 21/03/2013. *(poster presentation)*
