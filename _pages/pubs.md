@@ -64,7 +64,7 @@ Enjoy :)
 **2020**
 
  - [[C48]](http://dx.doi.org/10.1007/978-3-030-61470-6_12) *"Degrees of Autonomy in Coordinating Collectives of Self-Driving Vehicles."* Lecture Notes in Computer Science. Springer.
- - [[C47]](http://dx.doi.org/10.1007/978-3-030-50029-0_13) *"Time-Fluid Field-Based Coordination."*. Lecture Notes in Computer Science. Springer.
+ - [[C47]](http://dx.doi.org/10.1007/978-3-030-50029-0_13) *"Time-Fluid Field-Based Coordination."* Lecture Notes in Computer Science. Springer.
  
 **2019**
  
