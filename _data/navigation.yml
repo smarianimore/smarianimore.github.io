@@ -1,6 +1,8 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "For students"
+    url: /students/
   - title: "On the web"
     url: /ontheweb/
   - title: "Publications"
