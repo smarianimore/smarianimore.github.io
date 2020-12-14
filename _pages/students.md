@@ -1,5 +1,5 @@
 ---
-title: "For students"
+title: "Student? Look no further!"
 permalink: /students/
 toc: true
 toc_icon: "fas fa-book-open"
