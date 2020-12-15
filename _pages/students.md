@@ -18,16 +18,35 @@ Also, proposals are roughly divided in categories, representing the research top
 
 ### Available
 
+**Bayesian and reinforcement learning in the Internet of Things**
+
 Under construction
 {:class .notice--info}
 
-**Bayesian and reinforcement learning in the Internet of Things**
-
 **Digital Twins for urban mobility and in healthcare**
+
+Under construction
+{:class .notice--info}
 
 **Argumentation protocols for joint deliberation/action and situation recognition**
 
+ - develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
+ - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
+ - develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
+ - surveying *commonsense reasoning* state of art
+
 **Information retrieval, clustering, and gossiping on the web**
+
+ - surveying information retrieval technologies state of art (e.g. [Apache Lucene](https://lucene.apache.org), [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html), [Terrier](http://terrier.org))
+ - surveying semantic inference technologies state of art (e.g. [Apache Jena](https://jena.apache.org), [HermiT](http://www.hermit-reasoner.com/index.html))
+ - surveying text mining technologies state of art (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
+
+**Beyond AutoML: software engineering applied to machine learning pipelines**
+
+ - using [PMML/PFA](http://dmg.org) for sharing machine learning models/pipelines across software platforms (e.g. R and Python)
+ - surveying *AutoML* state of art (e.g. open source libraries)
+ - design of a *modular* machine learning pipeline for predicting [health outcomes in COPD/asthma patients](https://www.connecare.eu/wp-content/uploads/2020/02/D3.4-Stratification-and-Mapping-DSS_DEF.pdf)
+ - serving machine learning models over the *web*
 
 ### Ongoing
 
