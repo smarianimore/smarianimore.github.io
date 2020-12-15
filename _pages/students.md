@@ -14,9 +14,13 @@ While scrolling through the proposals, keep in mind that **most internships may 
 
 Also, proposals are roughly divided in categories, representing the research topic they are meant to deal with: if you find an appealing topic, but not a satisfactory proposal therein, [contact me](mailto:stefano.mariani@unimore.it) and we'll discuss your own proposals :)
 
+Finally, if you have **your own proposal** for a thesis or an internship [contact me](mailto:stefano.mariani@unimore.it), *even if not covering the topics below*, and we'll discuss.
+
 ## Thesis
 
 ### Available
+
+Available topics and tasks:
 
 **Bayesian and reinforcement learning in the Internet of Things**
 
@@ -50,10 +54,12 @@ Under construction
 
 ### Ongoing
 
- - Glorio Nicholas. *"Comparison of intersection management approaches for autonomous vehicles."* Bachelor degree in Computer Science Engineering. *(tentative title)*
- - Gambelli Marco. *"Traffic flow management: reciprocal effects of networks of intersections."* Bachelor degree in Computer Science Engineering. *(tentative title)*
+Thesis I am currently supervising or co-supervising:
+
+ <!-- - Glorio Nicholas. *"Comparison of intersection management approaches for autonomous vehicles."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
+ <!-- - Gambelli Marco. *"Traffic flow management: reciprocal effects of networks of intersections."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
  - Santi Riccardo. *"Bayesian learning to make sense of the world: the case of a mobile robot."* Bachelor degree in Management Engineering. *(tentative title)*
- - Donati Michele. *"A modular and flexible web dashboard for mobile assets geo-tracking."* Bachelor degree in Computer Science Engineering. *(tentative title)*
+ <!-- - Donati Michele. *"A modular and flexible web dashboard for mobile assets geo-tracking."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
 
 ### Completed
 
