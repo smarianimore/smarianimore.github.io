@@ -56,6 +56,7 @@ Under construction
 
 Thesis I am currently supervising or co-supervising:
 
+ - Nicola Romano. *"Finanza decentralizzata basata su Blockchain: stato dell'arte e casi d'uso."* Bachelor degree in Management Engineering. *(tentative title)*
  <!-- - Glorio Nicholas. *"Comparison of intersection management approaches for autonomous vehicles."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
  <!-- - Gambelli Marco. *"Traffic flow management: reciprocal effects of networks of intersections."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
  - Santi Riccardo. *"Bayesian learning to make sense of the world: the case of a mobile robot."* Bachelor degree in Management Engineering. *(tentative title)*
@@ -75,7 +76,7 @@ Thesis I supervised or co-supervised:
  - Bicego Andrea. *"Progettazione di Servizi IoT basati su Protocolli di Argomentazione."* Master degree in Management Engineering, 2017/2018.
  - Canepari Andrea. *"Geolocalizzazione e stratificazione di pazienti critici su mappa: il caso del Mapping DSS in CONNECARE."* Bachelor degree in Management Engineering, 2018/2019.
  - Stefani Jacopo. *"SISTEMA DI SUPPORTO DECISIONALE IN AMBITO CLINICO: VISUALIZZAZIONE DEI PAZIENTI SU MAPPA."* Bachelor degree in Management Engineering, 2017/2018.
- - Alberini Andrea. *"Applicazione Java per l'ottimizzazione dell'attività fisica tramite messaggi motivazionali contestualizzati."* Bachelor degree in Management Engineering, 2017/2018.
+ - Alberini Andrea. *"Applicazione Java per l'ottimizzazione dell'attività fisica tramite messaggi motivazionali contestualizzati."* Bachelor degree in Management Engineering, 2017/2018.
 
 See also the [legacy Unibo page](http://apice.unibo.it/xwiki/bin/view/StefanoMariani/CompletedTheses) for older thesis.
 
@@ -87,6 +88,8 @@ Under construction
 ### Available
 
 ### Ongoing
+
+ - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: focus sullo smart working."*
 
 ### Completed
 
