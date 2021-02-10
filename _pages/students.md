@@ -56,7 +56,6 @@ Under construction
 
 Thesis I am currently supervising or co-supervising:
 
- - Nicola Romano. *"Finanza decentralizzata basata su Blockchain: stato dell'arte e casi d'uso."* Bachelor degree in Management Engineering. *(tentative title)*
  <!-- - Glorio Nicholas. *"Comparison of intersection management approaches for autonomous vehicles."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
  <!-- - Gambelli Marco. *"Traffic flow management: reciprocal effects of networks of intersections."* Bachelor degree in Computer Science Engineering. *(tentative title)* -->
  - Santi Riccardo. *"Bayesian learning to make sense of the world: the case of a mobile robot."* Bachelor degree in Management Engineering. *(tentative title)*
@@ -66,6 +65,7 @@ Thesis I am currently supervising or co-supervising:
 
 Thesis I supervised or co-supervised:
 
+ - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
  - Vitali Andrea. *"Esperimenti di coordinazione veicolare tramite blockchain."* Master degree in Computer Science Engineering, 2019/2020.
  - Occhionero Alessandra. *"Analisi della piattaforma AWS IoT Core: gestione di device IoT simulati."* Bachelor degree in Management Engineering, 2019/2020.
  - Rossini Enrico. *"Attraversamento di incroci per auto a guida autonoma: protocolli e simulazione."* Bachelor degree in Management Engineering, 2019/2020.
