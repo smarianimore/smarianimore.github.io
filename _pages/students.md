@@ -65,6 +65,7 @@ Thesis I am currently supervising or co-supervising:
 
 Thesis I supervised or co-supervised:
 
+ - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
  - Vitali Andrea. *"Esperimenti di coordinazione veicolare tramite blockchain."* Master degree in Computer Science Engineering, 2019/2020.
  - Occhionero Alessandra. *"Analisi della piattaforma AWS IoT Core: gestione di device IoT simulati."* Bachelor degree in Management Engineering, 2019/2020.
  - Rossini Enrico. *"Attraversamento di incroci per auto a guida autonoma: protocolli e simulazione."* Bachelor degree in Management Engineering, 2019/2020.
@@ -75,7 +76,7 @@ Thesis I supervised or co-supervised:
  - Bicego Andrea. *"Progettazione di Servizi IoT basati su Protocolli di Argomentazione."* Master degree in Management Engineering, 2017/2018.
  - Canepari Andrea. *"Geolocalizzazione e stratificazione di pazienti critici su mappa: il caso del Mapping DSS in CONNECARE."* Bachelor degree in Management Engineering, 2018/2019.
  - Stefani Jacopo. *"SISTEMA DI SUPPORTO DECISIONALE IN AMBITO CLINICO: VISUALIZZAZIONE DEI PAZIENTI SU MAPPA."* Bachelor degree in Management Engineering, 2017/2018.
- - Alberini Andrea. *"Applicazione Java per l'ottimizzazione dell'attività fisica tramite messaggi motivazionali contestualizzati."* Bachelor degree in Management Engineering, 2017/2018.
+ - Alberini Andrea. *"Applicazione Java per l'ottimizzazione dell'attività fisica tramite messaggi motivazionali contestualizzati."* Bachelor degree in Management Engineering, 2017/2018.
 
 See also the [legacy Unibo page](http://apice.unibo.it/xwiki/bin/view/StefanoMariani/CompletedTheses) for older thesis.
 
@@ -87,6 +88,8 @@ Under construction
 ### Available
 
 ### Ongoing
+
+ - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: focus sullo smart working."*
 
 ### Completed
 
