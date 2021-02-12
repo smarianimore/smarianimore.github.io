@@ -26,6 +26,10 @@ Enjoy :)
 
 ### Journals
 
+**2021**
+
+ - [[R16]](https://doi.org/10.1145/3431231) *"Coordination of Autonomous Vehicles: Taxonomy and Survey."* ACM Computing Surveys. ACM.
+
 **2020**
 
  - [[R15]](http://dx.doi.org/10.3390/app10217460) *"From Agents to Blockchain: Stairway to Integration."* Applied Sciences. MDPI.
