@@ -22,6 +22,20 @@ Finally, if you have **your own proposal** for a thesis or an internship [contac
 
 Available topics and tasks:
 
+**Coordination of vehicles for urban traffic management**
+
+ - surveying existing microscopic traffic simulators and agent-based simulators, possibly finding integrations
+ - experiment with existing agent-based simulators adopted/adapted in traffic management domain
+ - design and implement an agent-based microscopic traffic simulator
+
+**Space-based coordination for smart cities applications**
+
+Under construction
+{:class .notice--info}
+
+ - integrate [TuSoW](https://github.com/CoordaaS/TuSoW) and [Tile38](https://tile38.com) for efficient tuple-based, space-aware coordination
+ - experiment/expand [Tile38](https://tile38.com) to deal with arbitrary data (e.g. try geoJSON or implement ad-hoc representation)
+
 **Bayesian and reinforcement learning in the Internet of Things**
 
 Under construction
