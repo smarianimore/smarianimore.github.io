@@ -154,6 +154,10 @@ Enjoy :)
 
 ### Conferences
 
+**2021**
+
+ - [[C17]]({{ site.url }}/assets/talks/A2HC2021-BDI-cognitive.pdf) *"Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain."* XIII International Workshop on Agents Applied in Healthcare. Online, 04/05/2021. ([video](https://youtu.be/giVDFfjlu3o))
+
 **2019**
 
  - [[C16]](https://smarianimore.github.io/idcs2019/?print-pdf) *"Argumentation-based Coordination in IoT: a Speaking Objects Proof-of-Concept."* 12th International Conference on Internet and Distributed Computing Systems. Napoli, Italy, 10/10/2019. *([interactive version](https://smarianimore.github.io/idcs2019/))*
