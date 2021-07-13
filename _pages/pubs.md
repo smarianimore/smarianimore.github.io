@@ -65,6 +65,12 @@ Enjoy :)
 
 ### Conferences
 
+**2021**
+
+ - [[C50]](https://doi.org/10.1109/WoWMoM51794.2021.00047) *"WIP: Preliminary Evaluation of Digital Twins on MEC Software Architecture."* 22nd {IEEE} International Symposium on a World of Wireless, Mobile
+               and Multimedia Networks (WoWMoM 2021). IEEE.
+ - [[C49]](https://doi.org/10.1109/PerComWorkshops51409.2021.9431003) *"Developing a 'Sense of Agency' in IoT Systems: Preliminary Experiments in a Smart Home Scenario."* 19th {IEEE} International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom workshops 2021). IEEE.
+
 **2020**
 
  - [[C48]](http://dx.doi.org/10.1007/978-3-030-61470-6_12) *"Degrees of Autonomy in Coordinating Collectives of Self-Driving Vehicles."* Lecture Notes in Computer Science. Springer.
