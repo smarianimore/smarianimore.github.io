@@ -22,6 +22,21 @@ Finally, if you have **your own proposal** for a thesis or an internship [contac
 
 Available topics and tasks:
 
+**Causal reasoning, Bayesian and reinforcement learning in multiagent systems and IoT**
+
+ - survey application of causal reasoning (inference + learning) techniques in multiagent systems
+ - survey application of causal reasoning (inference + learning) techniques in IoT
+ - experiment with [OpenAI Gym](https://gym.openai.com) and/or similar for reinforcement learning
+ - experiment with [PyAgrum](https://pyagrum.readthedocs.io/en/0.18.2/index.html) and/or similar for bayesian learning
+ - experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, learning
+
+**Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT**
+
+ - develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
+ - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
+ - develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
+ - surveying *commonsense reasoning* state of art
+
 **Coordination of vehicles for urban traffic management**
 
  - surveying existing microscopic traffic simulators and agent-based simulators, possibly finding integrations
@@ -30,34 +45,8 @@ Available topics and tasks:
 
 **Space-based coordination for smart cities applications**
 
-Under construction
-{:class .notice--info}
-
  - integrate [TuSoW](https://github.com/CoordaaS/TuSoW) and [Tile38](https://tile38.com) for efficient tuple-based, space-aware coordination
  - experiment/expand [Tile38](https://tile38.com) to deal with arbitrary data (e.g. try geoJSON or implement ad-hoc representation)
-
-**Bayesian and reinforcement learning in the Internet of Things**
-
-Under construction
-{:class .notice--info}
-
-**Digital Twins for urban mobility and in healthcare**
-
-Under construction
-{:class .notice--info}
-
-**Argumentation protocols for joint deliberation/action and situation recognition**
-
- - develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
- - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
- - develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
- - surveying *commonsense reasoning* state of art
-
-**Information retrieval, clustering, and gossiping on the web**
-
- - surveying information retrieval technologies state of art (e.g. [Apache Lucene](https://lucene.apache.org), [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html), [Terrier](http://terrier.org))
- - surveying semantic inference technologies state of art (e.g. [Apache Jena](https://jena.apache.org), [HermiT](http://www.hermit-reasoner.com/index.html))
- - surveying text mining technologies state of art (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
 
 **Beyond AutoML: software engineering applied to machine learning pipelines**
 
@@ -65,6 +54,12 @@ Under construction
  - surveying *AutoML* state of art (e.g. open source libraries)
  - design of a *modular* machine learning pipeline for predicting [health outcomes in COPD/asthma patients](https://www.connecare.eu/wp-content/uploads/2020/02/D3.4-Stratification-and-Mapping-DSS_DEF.pdf)
  - serving machine learning models over the *web*
+
+**Information retrieval, clustering, and gossiping on the web**
+
+ - surveying information retrieval technologies state of art (e.g. [Apache Lucene](https://lucene.apache.org), [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html), [Terrier](http://terrier.org))
+ - surveying semantic inference technologies state of art (e.g. [Apache Jena](https://jena.apache.org), [HermiT](http://www.hermit-reasoner.com/index.html))
+ - surveying text mining technologies state of art (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
 
 ### Ongoing
 
