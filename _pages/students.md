@@ -26,7 +26,7 @@ The following activities unfold within this theme.
 
  - apply either form of learning ([reinforcement](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec), [structural bayesian](https://ojs.aaai.org//index.php/aimagazine/article/view/918), [causal](https://www.cs.ubc.ca/~murphyk/Papers/intro_gm.pdf)) to let agents in a MAS, or devices in a Internet of Things (IoT) deployment, learn from scratch known interaction protocols (e.g. [FIPA protocols](http://www.fipa.org/repository/ips.php3))
  - given a pre-built Bayesian network, or causal structural model, let agents interact according to it to accomplish given goals (e.g. in a IoT scenario of choice). *Optionally*, let agents explain their course of actions by using the model (Bayesian or causal) as [argumentation graph](http://www.cs.uu.nl/docs/vakken/mcarg/)
- - based on open datasets to be found on the web (e.g. assisted living or smart homes domain, [this](https://lig-getalp.imag.fr/fr/health-smart-home-his-datasets/) or [that](https://project.inria.fr/toyotasmarthome/)), implement causal discovery algorithms from the scientific literature and test them on such data (e.g. [this one](https://ieeexplore.ieee.org/abstract/document/9196246)
+ - based on open datasets to be found on the web (e.g. assisted living or smart homes domain, [this](https://lig-getalp.imag.fr/fr/health-smart-home-his-datasets/) or [that](https://project.inria.fr/toyotasmarthome/)), implement causal discovery algorithms from the scientific literature and test them on such data (e.g. [this one](https://ieeexplore.ieee.org/abstract/document/9196246))
 
 **Internships**
 
@@ -98,7 +98,7 @@ Under construction
 
  <!--- Michele Donati. *"A modular and flexible web dashboard for mobile assets geo-tracking."* Bachelor degree in Computer Science Engineering. *(tentative title)*-->
 
-## Beyond AutoML: software engineering applied to machine learning pipelinesù
+## Beyond AutoML: software engineering applied to machine learning pipelines
 
 Under construction
 {:class .notice--info}
@@ -142,5 +142,5 @@ Under construction
  - Andrea Alberini. *"Applicazione Java per l'ottimizzazione dell'attività fisica tramite messaggi motivazionali contestualizzati."* Bachelor degree in Management Engineering, 2017/2018.
 
 See also the [legacy Unibo page](http://apice.unibo.it/xwiki/bin/view/StefanoMariani/CompletedTheses) for older thesis.
-See also the [legacy Unibo page](https://apice.unibo.it/xwiki/bin/view/Panels/SMarStudents) for older projects / internships.
 
+See also the [legacy Unibo page](https://apice.unibo.it/xwiki/bin/view/Panels/SMarStudents) for older projects / internships.
