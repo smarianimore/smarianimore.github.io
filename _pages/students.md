@@ -22,13 +22,13 @@ Various forms of learning are used in multiagent systems (MAS) to let agents *in
 Instead, letting agents *learn how to interact socially* is yet underexplored in scientific literature, but a promising topic to let multiagent systems self-organise to achieve a shared or system goal.
 The following activities unfold within this theme.
 
-### Thesis
+**Thesis**
 
  - apply either form of learning ([reinforcement](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec), [structural bayesian](https://ojs.aaai.org//index.php/aimagazine/article/view/918), [causal](https://www.cs.ubc.ca/~murphyk/Papers/intro_gm.pdf)) to let agents in a MAS, or devices in a Internet of Things (IoT) deployment, learn from scratch known interaction protocols (e.g. [FIPA protocols](http://www.fipa.org/repository/ips.php3))
  - given a pre-built Bayesian network, or causal structural model, let agents interact according to it to accomplish given goals (e.g. in a IoT scenario of choice). *Optionally*, let agents explain their course of actions by using the model (Bayesian or causal) as [argumentation graph](http://www.cs.uu.nl/docs/vakken/mcarg/)
  - based on open datasets to be found on the web (e.g. assisted living or smart homes domain, [this](https://lig-getalp.imag.fr/fr/health-smart-home-his-datasets/) or [that](https://project.inria.fr/toyotasmarthome/)), implement causal discovery algorithms from the scientific literature and test them on such data (e.g. [this one](https://ieeexplore.ieee.org/abstract/document/9196246)
 
-### Internships
+**Internships**
 
  - survey application of causal reasoning (inference + learning) techniques in multiagent systems
  - survey application of causal reasoning (inference + learning) techniques in IoT
@@ -36,11 +36,11 @@ The following activities unfold within this theme.
  - experiment with [PyAgrum](https://pyagrum.readthedocs.io/en/0.18.2/index.html) and/or similar for bayesian learning
  - experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, learning
 
-### Ongoing
+**Ongoing**
 
  - Riccardo Santi. *"Bayesian learning to make sense of the world: the case of a mobile robot."* Bachelor degree in Management Engineering. *(tentative title)*
 
-### Concluded
+**Concluded**
 
  - Matteo Sigolotto. *"Apprendimento autonomo in sistemi IoT mediante Reti Bayesiane."* Master degree in Computer Science Engineering, 2018/2019
 
@@ -49,16 +49,17 @@ The following activities unfold within this theme.
 Under construction
 {:class .notice--info}
 
-### Thesis
+**Thesis**
 
-### Internships
-
- - develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
- - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
  - develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
+ - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
+ - develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
+
+**Internships**
+
  - surveying *commonsense reasoning* state of art
 
-### Concluded
+**Concluded**
 
  - Andrea Bicego. *"Progettazione di Servizi IoT basati su Protocolli di Argomentazione."* Master degree in Management Engineering, 2017/2018.
 
@@ -67,15 +68,16 @@ Under construction
 Under construction
 {:class .notice--info}
 
-### Thesis
+**Thesis**
 
-### Internships
-
- - surveying existing microscopic traffic simulators and agent-based simulators, possibly finding integrations
  - experiment with existing agent-based simulators adopted/adapted in traffic management domain
  - design and implement an agent-based microscopic traffic simulator
 
-### Concluded
+**Internships**
+
+ - surveying existing microscopic traffic simulators and agent-based simulators, possibly finding integrations
+
+**Concluded**
 
  - Nicholas Glorio. *"Strategie per la gestione delle intersezioni in presenza di veicoli autonomi."* Master degree in Computer Science Engineering, 2020/2021.
  - Marco Gambelli. *"Gestione di incroci stradali per veicoli a guida autonoma basata su algoritmi a prenotazione e ad asta."* Master degree in Computer Science Engineering, 2020/2021.
@@ -87,9 +89,7 @@ Under construction
 Under construction
 {:class .notice--info}
 
-### Thesis
-
-### Internships
+**Internships**
 
  - integrate [TuSoW](https://github.com/CoordaaS/TuSoW) and [Tile38](https://tile38.com) for efficient tuple-based, space-aware coordination
  - experiment/expand [Tile38](https://tile38.com) to deal with arbitrary data (e.g. try geoJSON or implement ad-hoc representation)
@@ -103,16 +103,17 @@ Under construction
 Under construction
 {:class .notice--info}
 
-### Thesis
+**Thesis**
 
-### Internships
+ - design of a *modular* machine learning pipeline for predicting [health outcomes in COPD/asthma patients](https://www.connecare.eu/wp-content/uploads/2020/02/D3.4-Stratification-and-Mapping-DSS_DEF.pdf)
+
+**Internships**
 
  - using [PMML/PFA](http://dmg.org) for sharing machine learning models/pipelines across software platforms (e.g. R and Python)
  - surveying *AutoML* state of art (e.g. open source libraries)
- - design of a *modular* machine learning pipeline for predicting [health outcomes in COPD/asthma patients](https://www.connecare.eu/wp-content/uploads/2020/02/D3.4-Stratification-and-Mapping-DSS_DEF.pdf)
  - serving machine learning models over the *web*
 
-### Concluded
+**Concluded**
 
  - Benedetta Becchi. *"Sperimentazione della piattaforma KNIME: creazione di una pipeline di machine learning per il trattamento di dati sanitari."* Bachelor degree in Management Engineering, 2019/2020.
 
@@ -121,9 +122,7 @@ Under construction
 Under construction
 {:class .notice--info}
 
-### Thesis
-
-### Internships
+**Internships**
 
  - surveying information retrieval technologies state of art (e.g. [Apache Lucene](https://lucene.apache.org), [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html), [Terrier](http://terrier.org))
  - surveying semantic inference technologies state of art (e.g. [Apache Jena](https://jena.apache.org), [HermiT](http://www.hermit-reasoner.com/index.html))
@@ -131,7 +130,7 @@ Under construction
 
 ## Miscellaneous (e.g. students' proposals)
 
-## Concluded
+**Concluded**
 
  - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
  - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: rischi e mkisure protettive per lo smart working."* Bachelor degree in Management Engineering, 2019/2020.
