@@ -28,6 +28,7 @@ Enjoy :)
 
 **2021**
 
+ - [[R17]](https://doi.org/10.1002/int.22568) *"Developing an ML pipeline for asthma and COPD: The case of a Dutch primary care service."* International Journal of Intelligent Systems. Wiley.
  - [[R16]](https://doi.org/10.1145/3431231) *"Coordination of Autonomous Vehicles: Taxonomy and Survey."* ACM Computing Surveys. ACM.
 
 **2020**
