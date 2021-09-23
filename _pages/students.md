@@ -117,7 +117,7 @@ Under construction
 
  - Benedetta Becchi. *"Sperimentazione della piattaforma KNIME: creazione di una pipeline di machine learning per il trattamento di dati sanitari."* Bachelor degree in Management Engineering, 2019/2020.
 
-## Information retrieval, clustering, and gossiping on the web
+<!--## Information retrieval, clustering, and gossiping on the web
 
 Under construction
 {:class .notice--info}
@@ -127,13 +127,14 @@ Under construction
  - surveying information retrieval technologies state of art (e.g. [Apache Lucene](https://lucene.apache.org), [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html), [Terrier](http://terrier.org))
  - surveying semantic inference technologies state of art (e.g. [Apache Jena](https://jena.apache.org), [HermiT](http://www.hermit-reasoner.com/index.html))
  - surveying text mining technologies state of art (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
+-->
 
 ## Miscellaneous (e.g. students' proposals)
 
 **Concluded**
 
  - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
- - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: rischi e mkisure protettive per lo smart working."* Bachelor degree in Management Engineering, 2019/2020.
+ - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: rischi e misure protettive per lo smart working."* Bachelor degree in Management Engineering, 2019/2020.
  - Alessandra Occhionero. *"Analisi della piattaforma AWS IoT Core: gestione di device IoT simulati."* Bachelor degree in Management Engineering, 2019/2020.
  - Luca Bartolini. *"Digital Twin per industria 4.0: piattaforme e scenari applicativi."* Bachelor degree in Management Engineering, 2019/2020.
  - Matteo Santacaterina. *"Analisi dati GeoJson a supporto di processi clinici: il Mapping DSS in CONNECARE."* Bachelor degree in Management Engineering, 2018/2019.
