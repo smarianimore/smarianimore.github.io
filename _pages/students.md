@@ -80,9 +80,6 @@ Many techniques exist to make ML *explainable*, that is able to otivate their de
 
 ## Coordination of vehicles for urban traffic management
 
-Under construction
-{:class .notice--info}
-
 Being stuck in traffic is not funny for anyone...while self-driving cars could relieve us from the duty of daily driving, *cooperative driving* is necessary to enable self-driving cars to handle complex situations like crossing intersections, that require the coordination of multiple vehicles to establish a safe crossing order.
 Urban traffic management is thus an abundant source of *coordination problems* that future autonomous and connected vehicles will need to tackle to successfully hit the streets.
 The following activities unfold in this domain.
