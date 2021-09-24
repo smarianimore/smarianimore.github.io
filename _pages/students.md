@@ -21,8 +21,10 @@ Finally, if you have **your own proposal** for a thesis or an internship [contac
 Mchine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
 However, modern software is rarely a monolithic entity that does everything by itself, rather a collection of indipendent services that *collaborate* to carry out a given task (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
 Modern software is thus usually a *multiagent system* where multiple software entities need to *coordinate* to achieve a given goal.
+
 Various forms of learning are used in multiagent systems (MAS) to let agents *individually* learn to accomplish a task, or to recognise a given state of the world.
 Instead, letting agents *learn how to interact socially* is yet underexplored in scientific literature, but a promising topic to let multiagent systems self-organise to achieve a shared or system goal.
+
 The following activities unfold within this theme.
 
 **Thesis**
@@ -53,9 +55,11 @@ The following activities unfold within this theme.
 ## Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
 
 Many daily activities we carry out are assisted by software (e.g. digital assistants like Siri, Alexa, etc.), that (1) exploit artificial intelligence techniques, e.g. Machine Learning (ML), to deliver their services, and (2) work together with many other software entities to accomplish tasks (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
+
 Using ML may result in *opaque* systems that re not easily comprehended in their decision making by the user (e.g. why is Netflix suggesting that?).
 Moreover, having systems composed by multiple software pieces raises the problem of establishing how these pieces should *coordinate* to ahieve the desired goal.
 Many techniques exist to make ML *explainable*, that is able to otivate their decisions to humans, and many other exist to define coordination protocols amongst independent software pieces dictating how each piece should behave.
+
 *Computational argumentation* is a promising research area that could potentially solve both problems at once.
 
 **Thesis**
@@ -79,6 +83,10 @@ Many techniques exist to make ML *explainable*, that is able to otivate their de
 Under construction
 {:class .notice--info}
 
+Being stuck in traffic is not funny for anyone...while self-driving cars could relieve us from the duty of daily driving, *cooperative driving* is necessary to enable self-driving cars to handle complex situations like crossing intersections, that require the coordination of multiple vehicles to establish a safe crossing order.
+Urban traffic management is thus an abundant source of *coordination problems* that future autonomous and connected vehicles will need to tackle to successfully hit the streets.
+The following activities unfold in this domain.
+
 **Thesis**
 
  - experiment with existing agent-based simulators adopted/adapted in traffic management domain
@@ -86,7 +94,8 @@ Under construction
 
 **Internships**
 
- - surveying existing microscopic traffic simulators and agent-based simulators, possibly finding integrations
+ - experiment with the [SUMO](https://sumo.dlr.de/docs/index.html) traffic simulator to implement state of the art intersection crossing strategies
+ - develop a Graphical User Interface (GUI) for a [simple simulator](https://github.com/DarioFerrari-git/AutoA) developed by graduate student Dario Ferrari
 
 **Concluded**
 
