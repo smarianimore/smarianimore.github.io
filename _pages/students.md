@@ -18,6 +18,9 @@ Finally, if you have **your own proposal** for a thesis or an internship [contac
 
 ## Causal reasoning, Bayesian and reinforcement learning in multiagent systems and IoT
 
+Mchine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
+However, modern software is rarely a monolithic entity that does everything by itself, rather a collection of indipendent services that *collaborate* to carry out a given task (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
+Modern software is thus usually a *multiagent system* where multiple software entities need to *coordinate* to achieve a given goal.
 Various forms of learning are used in multiagent systems (MAS) to let agents *individually* learn to accomplish a task, or to recognise a given state of the world.
 Instead, letting agents *learn how to interact socially* is yet underexplored in scientific literature, but a promising topic to let multiagent systems self-organise to achieve a shared or system goal.
 The following activities unfold within this theme.
@@ -34,7 +37,10 @@ The following activities unfold within this theme.
  - survey application of causal reasoning (inference + learning) techniques in IoT
  - experiment with [OpenAI Gym](https://gym.openai.com) and/or similar for reinforcement learning
  - experiment with [PyAgrum](https://pyagrum.readthedocs.io/en/0.18.2/index.html) and/or similar for bayesian learning
- - experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, learning
+ - experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, (learning?)
+ - experiment with the [iCasa](http://self-star.imag.fr) smart home simulator to generate a dataset suitable for the ebove learning mechanisms
+ - experiment with [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/#!videos) for multiagent reinforcement learning
+ - experiment with [OpenAI NeuralMMO](https://openai.com/blog/neural-mmo/) for massive multiagent reinforcement learning
 
 **Ongoing**
 
@@ -46,18 +52,23 @@ The following activities unfold within this theme.
 
 ## Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
 
-Under construction
-{:class .notice--info}
+Many daily activities we carry out are assisted by software (e.g. digital assistants like Siri, Alexa, etc.), that (1) exploit artificial intelligence techniques, e.g. Machine Learning (ML), to deliver their services, and (2) work together with many other software entities to accomplish tasks (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
+Using ML may result in *opaque* systems that re not easily comprehended in their decision making by the user (e.g. why is Netflix suggesting that?).
+Moreover, having systems composed by multiple software pieces raises the problem of establishing how these pieces should *coordinate* to ahieve the desired goal.
+Many techniques exist to make ML *explainable*, that is able to otivate their decisions to humans, and many other exist to define coordination protocols amongst independent software pieces dictating how each piece should behave.
+*Computational argumentation* is a promising research area that could potentially solve both problems at once.
 
 **Thesis**
 
  - develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
  - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
- - develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))
+ <!--- develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))-->
 
 **Internships**
 
  - surveying *commonsense reasoning* state of art
+ - experiment with the [Tweety Java library](https://tweetyproject.org) for computational argumentation
+ - experiment with the [ArgTuProlog](https://pika-lab.gitlab.io/argumentation/arg2p-kt/) system for computational argumentation
 
 **Concluded**
 
