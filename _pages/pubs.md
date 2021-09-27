@@ -163,6 +163,7 @@ Enjoy :)
 
 **2021**
 
+ - [[C19]]({{ site.url }}/assets/talks/IDC2021.pdf) *"Combining Coordination Strategies for Autonomous Vehicles in Intersection Networks."* 14th International Symposium on Intelligent Distributed Computing (IDC). Online, 16-18/9/2021.
  - [[C18]]({{ site.url }}/assets/talks/A2HC2021-BDI-cognitive.pdf) *"Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain."* XIII International Workshop on Agents Applied in Healthcare (A2HC). Online, 04/05/2021. ([video](https://youtu.be/giVDFfjlu3o))
  - [[C17]]({{ site.url }}/assets/talks/CoMoRea2021.pdf) *"Developing a “Sense of Agency” in IoT Systems: Preliminary Experiments in a Smart Home Scenario."* XVII International Workshop on Context and Activity Modeling and Recognition (CoMoReA). Online, 22/03/2021. ([video](https://youtu.be/KeMAInq0HEg))
 
