@@ -13,10 +13,11 @@ Here below I keep track of available thesis and internships, as well as past one
 While scrolling through the proposals, keep in mind that **most internships may become thesis and most thesis can scale down to an internship**, hence if you find something interesting but in the "wrong" category, *do not lose hope*: [contact me](mailto:stefano.mariani@unimore.it) and we'll manage to adapt the proposal to your needs!
 
 Also, proposals are roughly divided in categories, representing the research topic they are meant to deal with: if you find an appealing topic, but not a satisfactory proposal therein, [contact me](mailto:stefano.mariani@unimore.it) and we'll discuss your own proposals :)
+The numbers you see in both categories and proposals of activities therein **are not** a ranking of importance or a priority score, but merely a **reference number** to ease communications.
 
 Finally, if you have **your own proposal** for a thesis or an internship [contact me](mailto:stefano.mariani@unimore.it), *even if not covering the topics below*, and we'll discuss.
 
-## Causal reasoning, Bayesian and reinforcement learning in multiagent systems and IoT
+## 1) Causal reasoning, Bayesian and reinforcement learning in multiagent systems and IoT
 
 Mchine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
 However, modern software is rarely a monolithic entity that does everything by itself, rather a collection of indipendent services that *collaborate* to carry out a given task (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
@@ -29,20 +30,20 @@ The following activities unfold within this theme.
 
 **Thesis**
 
- - apply either form of learning ([reinforcement](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec), [structural bayesian](https://ojs.aaai.org//index.php/aimagazine/article/view/918), [causal](https://www.cs.ubc.ca/~murphyk/Papers/intro_gm.pdf)) to let agents in a MAS, or devices in a Internet of Things (IoT) deployment, learn from scratch known interaction protocols (e.g. [FIPA protocols](http://www.fipa.org/repository/ips.php3))
- - given a pre-built Bayesian network, or causal structural model, let agents interact according to it to accomplish given goals (e.g. in a IoT scenario of choice). *Optionally*, let agents explain their course of actions by using the model (Bayesian or causal) as [argumentation graph](http://www.cs.uu.nl/docs/vakken/mcarg/)
- - based on open datasets to be found on the web (e.g. assisted living or smart homes domain, [this](https://lig-getalp.imag.fr/fr/health-smart-home-his-datasets/) or [that](https://project.inria.fr/toyotasmarthome/)), implement causal discovery algorithms from the scientific literature and test them on such data (e.g. [this one](https://ieeexplore.ieee.org/abstract/document/9196246))
+ 1. apply either form of learning ([reinforcement](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec), [structural bayesian](https://ojs.aaai.org//index.php/aimagazine/article/view/918), [causal](https://www.cs.ubc.ca/~murphyk/Papers/intro_gm.pdf)) to let agents in a MAS, or devices in a Internet of Things (IoT) deployment, learn from scratch known interaction protocols (e.g. [FIPA protocols](http://www.fipa.org/repository/ips.php3))
+ 2. given a pre-built Bayesian network, or causal structural model, let agents interact according to it to accomplish given goals (e.g. in a IoT scenario of choice). *Optionally*, let agents explain their course of actions by using the model (Bayesian or causal) as [argumentation graph](http://www.cs.uu.nl/docs/vakken/mcarg/)
+ 3. based on open datasets to be found on the web (e.g. assisted living or smart homes domain, [this](https://lig-getalp.imag.fr/fr/health-smart-home-his-datasets/) or [that](https://project.inria.fr/toyotasmarthome/)), implement causal discovery algorithms from the scientific literature and test them on such data (e.g. [this one](https://ieeexplore.ieee.org/abstract/document/9196246))
 
 **Internships**
 
- - survey application of causal reasoning (inference + learning) techniques in multiagent systems
- - survey application of causal reasoning (inference + learning) techniques in IoT
- - experiment with [OpenAI Gym](https://gym.openai.com) and/or similar for reinforcement learning
- - experiment with [PyAgrum](https://pyagrum.readthedocs.io/en/0.18.2/index.html) and/or similar for bayesian learning
- - experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, (learning?)
- - experiment with the [iCasa](http://self-star.imag.fr) smart home simulator to generate a dataset suitable for the ebove learning mechanisms
- - experiment with [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/#!videos) for multiagent reinforcement learning
- - experiment with [OpenAI NeuralMMO](https://openai.com/blog/neural-mmo/) for massive multiagent reinforcement learning
+ 1. survey application of causal reasoning (inference + learning) techniques in multiagent systems
+ 2. survey application of causal reasoning (inference + learning) techniques in IoT
+ 3. experiment with [OpenAI Gym](https://gym.openai.com) and/or similar for reinforcement learning
+ 4. experiment with [PyAgrum](https://pyagrum.readthedocs.io/en/0.18.2/index.html) and/or similar for bayesian learning
+ 5. experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, (learning?)
+ 6. experiment with the [iCasa](http://self-star.imag.fr) smart home simulator to generate a dataset suitable for the ebove learning mechanisms
+ 7. experiment with [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/#!videos) for multiagent reinforcement learning
+ 8. experiment with [OpenAI NeuralMMO](https://openai.com/blog/neural-mmo/) for massive multiagent reinforcement learning
 
 **Ongoing**
 
@@ -52,7 +53,7 @@ The following activities unfold within this theme.
 
  - Matteo Sigolotto. *"Apprendimento autonomo in sistemi IoT mediante Reti Bayesiane."* Master degree in Computer Science Engineering, 2018/2019
 
-## Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
+## 2) Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
 
 Many daily activities we carry out are assisted by software (e.g. digital assistants like Siri, Alexa, etc.), that (1) exploit artificial intelligence techniques, e.g. Machine Learning (ML), to deliver their services, and (2) work together with many other software entities to accomplish tasks (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
 
@@ -64,21 +65,21 @@ Many techniques exist to make ML *explainable*, that is able to otivate their de
 
 **Thesis**
 
- - develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
- - develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
+ 1. develop a software framework for [practical argumentation](https://nms.kcl.ac.uk/sanjay.modgil/ASPICtutorial.pdf)
+ 2. develop a software framework for playing *dialogue games* for multiagent negotiation and conflict resolution
  <!--- develop / experiment with a software framework for natural language processing for [argumentation mining](https://www.sciencedirect.com/science/article/pii/S0957417416304493?via%3Dihub) (e.g. [Apache OpenNLP](https://opennlp.apache.org), [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/))-->
 
 **Internships**
 
- - surveying *commonsense reasoning* state of art
- - experiment with the [Tweety Java library](https://tweetyproject.org) for computational argumentation
- - experiment with the [ArgTuProlog](https://pika-lab.gitlab.io/argumentation/arg2p-kt/) system for computational argumentation
+ 1. surveying *commonsense reasoning* state of art
+ 2. experiment with the [Tweety Java library](https://tweetyproject.org) for computational argumentation
+ 3. experiment with the [ArgTuProlog](https://pika-lab.gitlab.io/argumentation/arg2p-kt/) system for computational argumentation
 
 **Concluded**
 
  - Andrea Bicego. *"Progettazione di Servizi IoT basati su Protocolli di Argomentazione."* Master degree in Management Engineering, 2017/2018.
 
-## Coordination of vehicles for urban traffic management
+## 3) Coordination of vehicles for urban traffic management
 
 Being stuck in traffic is not funny for anyone...while self-driving cars could relieve us from the duty of daily driving, *cooperative driving* is necessary to enable self-driving cars to handle complex situations like crossing intersections, that require the coordination of multiple vehicles to establish a safe crossing order.
 Urban traffic management is thus an abundant source of *coordination problems* that future autonomous and connected vehicles will need to tackle to successfully hit the streets.
@@ -86,13 +87,13 @@ The following activities unfold in this domain.
 
 **Thesis**
 
- - experiment with existing agent-based simulators adopted/adapted in traffic management domain
- - design and implement an agent-based microscopic traffic simulator
+ 1. experiment with existing agent-based simulators adopted/adapted in traffic management domain
+ 2. design and implement an agent-based microscopic traffic simulator
 
 **Internships**
 
- - experiment with the [SUMO](https://sumo.dlr.de/docs/index.html) traffic simulator to implement state of the art intersection crossing strategies
- - develop a Graphical User Interface (GUI) for a [simple simulator](https://github.com/DarioFerrari-git/AutoA) developed by graduate student Dario Ferrari
+ 1. experiment with the [SUMO](https://sumo.dlr.de/docs/index.html) traffic simulator to implement state of the art intersection crossing strategies
+ 2. develop a Graphical User Interface (GUI) for a [simple simulator](https://github.com/DarioFerrari-git/AutoA) developed by graduate student Dario Ferrari
 
 **Concluded**
 
@@ -101,34 +102,34 @@ The following activities unfold in this domain.
  - Andrea Vitali. *"Esperimenti di coordinazione veicolare tramite blockchain."* Master degree in Computer Science Engineering, 2019/2020.
  - Enrico Rossini. *"Attraversamento di incroci per auto a guida autonoma: protocolli e simulazione."* Bachelor degree in Management Engineering, 2019/2020.
 
-## Space-based coordination for smart cities applications
+## 4) Space-based coordination for smart cities applications
 
 Under construction
 {:class .notice--info}
 
 **Internships**
 
- - integrate [TuSoW](https://github.com/CoordaaS/TuSoW) and [Tile38](https://tile38.com) for efficient tuple-based, space-aware coordination
- - experiment/expand [Tile38](https://tile38.com) to deal with arbitrary data (e.g. try geoJSON or implement ad-hoc representation)
+ 1. integrate [TuSoW](https://github.com/CoordaaS/TuSoW) and [Tile38](https://tile38.com) for efficient tuple-based, space-aware coordination
+ 2. experiment/expand [Tile38](https://tile38.com) to deal with arbitrary data (e.g. try geoJSON or implement ad-hoc representation)
 
 <!--### Concluded-->
 
  <!--- Michele Donati. *"A modular and flexible web dashboard for mobile assets geo-tracking."* Bachelor degree in Computer Science Engineering. *(tentative title)*-->
 
-## Beyond AutoML: software engineering applied to machine learning pipelines
+## 5) Beyond AutoML: software engineering applied to machine learning pipelines
 
 Under construction
 {:class .notice--info}
 
 **Thesis**
 
- - design of a *modular* machine learning pipeline for predicting [health outcomes in COPD/asthma patients](https://www.connecare.eu/wp-content/uploads/2020/02/D3.4-Stratification-and-Mapping-DSS_DEF.pdf)
+ 1. design of a *modular* machine learning pipeline for predicting [health outcomes in COPD/asthma patients](https://www.connecare.eu/wp-content/uploads/2020/02/D3.4-Stratification-and-Mapping-DSS_DEF.pdf)
 
 **Internships**
 
- - using [PMML/PFA](http://dmg.org) for sharing machine learning models/pipelines across software platforms (e.g. R and Python)
- - surveying *AutoML* state of art (e.g. open source libraries)
- - serving machine learning models over the *web*
+ 1. using [PMML/PFA](http://dmg.org) for sharing machine learning models/pipelines across software platforms (e.g. R and Python)
+ 2. surveying *AutoML* state of art (e.g. open source libraries)
+ 3. serving machine learning models over the *web*
 
 **Concluded**
 
