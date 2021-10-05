@@ -18,6 +18,6 @@ As part of the followup activities with Intel, we have now being invited as **sp
 ![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/intel-meetup.png)
 
 Hence, we invite everyone interested in developing **Edge computing** solutions, **Digital Twins** applications, and **Smart mobility** services to join us in this 1 hour livestream publicly (and freely) accessible.
-Registration and event details available at [Intel OpenNess events page](https://www.openness.org/news-and-events/edge-digital-twins-on-mec-software-architectures).
+Registration and event details available at [Meetup events page](https://www.meetup.com/it-IT/converged-edge/events/280454182/).
 
 As always, feel free to [contact me](mailto:stefano.mariani@unimore.it) for any further inquiry :)
