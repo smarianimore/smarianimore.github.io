@@ -17,6 +17,7 @@ Now, back to business.
 
  - Fixed-term post-doc researcher at the Department of Sciences and Methods for Engineering of the University of Modena and Reggio Emilia, Italy
  - Adjunct professor for the course of [Fundamentals of Programming](https://dolly.ingre.unimore.it/2020/course/view.php?id=132)[^1] in the Bachelor Degree in Management Engineering of the same University
+ - Professor for the course of [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb) in the XXXVI Cycle of the Doctorate School in Industrial Innovation Engineering of the same University
 
 ## Current research
 
@@ -25,7 +26,8 @@ Now, back to business.
 ## Current teaching
 
  - Adjunct professor for the course of [Fundamentals of Programming](https://dolly.ingre.unimore.it/2020/course/view.php?id=132)[^1] in the Bachelor Degree in Management Engineering of the same University, where I use Python as a reference language for basic programming concepts, such as variables, functions, and I/O
- - Seminar about blockchain technology for the course of Distributed Artificial Intelligence at the Master degree in Computer Engineering at the University of Modena and Reggio Emilia
- - Seminar about blockchain technology for the course of Avanced Information Systems at the Master degree in Management Engineering at the University of Modena and Reggio Emilia
+ - Professor for the course of [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb) in the XXXVI Cycle of the Doctorate School in Industrial Innovation Engineering of the same University
+ - [Seminar about blockchain](https://github.com/smarianimore/dief-daiseminar2020) technology for the course of Distributed Artificial Intelligence at the Master degree in Computer Engineering at the University of Modena and Reggio Emilia
+ - [Seminar about blockchain](https://github.com/smarianimore/dismi-dsm) technology for the course of Avanced Information Systems at the Master degree in Management Engineering at the University of Modena and Reggio Emilia
 
 [^1]: If prompted for login, use guest login with key *Goedel*.
