@@ -102,7 +102,7 @@ Enjoy :)
  
 **2017**
  
- - [[C30]](http://dx.doi.org/10.1145/3109859.3109955) *"Towards Argumentation-based Recommendations for Personalised Patient Empowerment."* Proceedings of the 2nd International Workshop on Health Recommender Systems. ACM.
+ - [[C30]](http://ceur-ws.org/Vol-1953/healthRecSys17_paper_4.pdf) *"Towards Argumentation-based Recommendations for Personalised Patient Empowerment."* Proceedings of the 2nd International Workshop on Health Recommender Systems. ACM.
  - [[C29]](http://dx.doi.org/10.1109/ICNSC.2017.8000070) *"Logic Programming as a Service (LPaaS): Intelligence for the IoT."* Proceedings of the 14th International Conference on Networking, Sensing and Control. IEEE.
  - [[C28]](http://dx.doi.org/10.1109/ICDCS.2017.282) *"Coordinating Distributed Speaking Objects."* Proceedings of the 37th International Conference on Distributed Computing Systems. IEEE.
  - [[C27]](http://dx.doi.org/10.1007/978-3-319-48829-5_12) *"Spatial Tuples: Augmenting Physical Reality with Tuple Spaces."* Studies in Computational Intelligence. Springer.
