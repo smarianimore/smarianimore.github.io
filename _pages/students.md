@@ -45,12 +45,9 @@ The following activities unfold within this theme.
  7. experiment with [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/#!videos) for multiagent reinforcement learning
  8. experiment with [OpenAI NeuralMMO](https://openai.com/blog/neural-mmo/) for massive multiagent reinforcement learning
 
-**Ongoing**
-
- - Riccardo Santi. *"Bayesian learning to make sense of the world: the case of a mobile robot."* Bachelor degree in Management Engineering. *(tentative title)*
-
 **Concluded**
 
+ - Riccardo Santi. *"Esperimenti di transfer learning per reti neurali con robot mobili."* Bachelor degree in Management Engineering, 2021/2022
  - Matteo Sigolotto. *"Apprendimento autonomo in sistemi IoT mediante Reti Bayesiane."* Master degree in Computer Science Engineering, 2018/2019
 
 ## 2) Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
@@ -77,6 +74,7 @@ Many techniques exist to make ML *explainable*, that is able to otivate their de
 
 **Concluded**
 
+ - Dario Ferrari. *"Coordinamento di veicoli autonomi basato su tecniche di argimentazione: simulatore ed esperimenti."* Bachelor degree in Management Engineering, 2021/2022.
  - Andrea Bicego. *"Progettazione di Servizi IoT basati su Protocolli di Argomentazione."* Master degree in Management Engineering, 2017/2018.
 
 ## 3) Coordination of vehicles for urban traffic management
@@ -97,6 +95,7 @@ The following activities unfold in this domain.
 
 **Concluded**
 
+ - Dario Ferrari. *"Coordinamento di veicoli autonomi basato su tecniche di argimentazione: simulatore ed esperimenti."* Bachelor degree in Management Engineering, 2021/2022.
  - Nicholas Glorio. *"Strategie per la gestione delle intersezioni in presenza di veicoli autonomi."* Master degree in Computer Science Engineering, 2020/2021.
  - Marco Gambelli. *"Gestione di incroci stradali per veicoli a guida autonoma basata su algoritmi a prenotazione e ad asta."* Master degree in Computer Science Engineering, 2020/2021.
  - Andrea Vitali. *"Esperimenti di coordinazione veicolare tramite blockchain."* Master degree in Computer Science Engineering, 2019/2020.
@@ -133,6 +132,7 @@ Under construction
 
 **Concluded**
 
+ - Gabriele Rinaldi. *"Sviluppo di un'applicazione web per la fruizione di modelli predittivi."* Bachelor degree in Management Engineering, 2021/2022.
  - Benedetta Becchi. *"Sperimentazione della piattaforma KNIME: creazione di una pipeline di machine learning per il trattamento di dati sanitari."* Bachelor degree in Management Engineering, 2019/2020.
 
 <!--## Information retrieval, clustering, and gossiping on the web
@@ -151,6 +151,7 @@ Under construction
 
 **Concluded**
 
+ - Luca Morini. *"Non SprECO: la web app per monitorare il proprio impatto ambientale quotidiano."* Bachelor degree in Management Engineering, 2020/2021.
  - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
  - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: rischi e misure protettive per lo smart working."* Bachelor degree in Management Engineering, 2019/2020.
  - Alessandra Occhionero. *"Analisi della piattaforma AWS IoT Core: gestione di device IoT simulati."* Bachelor degree in Management Engineering, 2019/2020.

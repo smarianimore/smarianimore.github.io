@@ -9,18 +9,41 @@ toc_icon: "fas fa-book-open"
 
 My research activity revolves around two prominent themes: how to best **coordinate** an ensamble of digital entities towards a systemic goal, and how to provide **"intelligent" support** to human activities through digital tools.
 
-As such, I'm doing (or did) research activities in the following fields:
- - coordination models, languages, and technologies for multi-agent systems
- - agent-oriented models, languages, and technologies
+As such, I'm **doing** (or did) research activities in the following fields:
+ - **learning to coordinate** in multi-agent systems
+ - **argumentation-based coordination**
+ - **causal reasoning** in multi-agent systems
  - self-organising mechanisms and systems
  - socio-cognitive models of behaviour and interaction to enhance coordination mechanisms
  - logic programming as a form of "Edge intelligence"
  - blockchain technologies and smart contracts for distributed and decentralised coordination
- - application of the above to pervasive systems such as the Internet of Things
+ - application of the above to pervasive systems such as the **Internet of Things**
  - application of the above to socio-technical systems such as information systems
- - decision support systems for patient empowerment in healthcare applications
- - decision support systems for clinical practice in healthcare applications
+ - **decision support systems in healthcare** applications for patient empowerment 
+ - decision support systems in healthcare applications for clinical practice 
 
+
+## Learning to coordinate
+
+<figure style="width: 50%" class="align-left">
+  <a href="https://doi.org/10.1109/PerComWorkshops51409.2021.9431003"><img src="{{ site.url }}{{ site.baseurl }}/assets/comorea.png" alt="A first approach to learning to coordinate with Bayesian networks."></a>
+  <figcaption>A first approach to learning to coordinate with Bayesian networks. Adjacent rooms learn to coordinate window operation to set luminosity.</figcaption>
+</figure> 
+
+**Problem**: Agents in multi-agent systems are usually equipped with *pre-defined interaction* means (e.g. messaging abilities)
+and *fixed coordination protocols* to abide to.
+This cannot cope with highly dynamic scenarios demanding for adaptation.
+
+**Solution**: *Let agents learn* how to interact and coordinate at best.
+
+**Goal**: *Improve agents adaptation* abilities also along the interaction dimension of computation.
+
+**Methods**: Transfer (multi-agent) *reinforcement and Bayesian learning* techniques 
+to the multi-agent domain and across coordination tasks.
+
+**Reference publications**:
+ - [Developing a "Sense of Agency" in IoT Systems: Preliminary Experiments in a Smart Home Scenario](https://doi.org/10.1109/PerComWorkshops51409.2021.9431003) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Argumentation-Based Coordination in IoT: A Speaking Objects Proof-of-Concept](https://doi.org/10.1007/978-3-030-34914-1_17) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
 
 ## Coordination in socio-technical systems
 
@@ -62,7 +85,6 @@ As such, I'm doing (or did) research activities in the following fields:
 **Reference publications**:
  - [Coordinating Distributed Speaking Objects](https://doi.org/10.1007/978-3-030-34914-1_17) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
  - [Spatial Tuples: Augmenting Reality with Tuples](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12273) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [Logic Programming as a Service](https://doi.org/10.1017/S1471068418000364)
 
 ## Decision support systems in healthcare
 
@@ -89,6 +111,6 @@ As such, I'm doing (or did) research activities in the following fields:
     (3) prefer explainable algorithms or adopt *argumentation*
 
 **Reference publications**:
- - [Complementing Agents with Cognitive Services: A Case Study in Healthcare](https://rdcu.be/caUsH)
+ - [Developing an ML pipeline for asthma and COPD: The case of a Dutch primary care service](https://doi.org/10.1002/int.22568)
+ - [Augmenting BDI Agency with a Cognitive Service: Architecture and Validation in Healthcare Domain](https://doi.org/10.1007/s10916-021-01780-1) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
  - [Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration](https://doi.org/10.1109/CBMS.2019.00069) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [Towards Argumentation-based Recommendations for Personalised Patient Empowerment](http://ceur-ws.org/Vol-1953/healthRecSys17_paper_4.pdf)
