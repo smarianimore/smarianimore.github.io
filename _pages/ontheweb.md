@@ -5,6 +5,8 @@ permalink: /ontheweb/
 
 Me according to popular digital libraries, bibliography portals, and academia social networks (not necessarily up-to-date, though...)
 
+Up-to-date, full academic CV (in *italian*): [[CV]]({{ site.url }}/assets/CV-ita.pdf).
+
  - Researcher IDs:
  <a href="http://orcid.org/0000-0001-8921-8150" title="ORCID"><i class="fab fa-orcid"></i> ORCID </a>{: .btn  .btn--info}
  <a href="https://publons.com/researcher/2370054/stefano-mariani/" title="Web of Science ResearcherID"> Web of Science ResearcherID </a>{: .btn .btn--info}
