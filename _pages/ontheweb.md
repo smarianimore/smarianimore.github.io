@@ -23,6 +23,9 @@ Me according to popular digital libraries, bibliography portals, and academia so
  <a href="https://www.researchgate.net/profile/Stefano_Mariani7" title="ResearchGate"><i class="fab fa-researchgate"></i> ResearchGate </a>{: .btn  .btn--info}
  <a href="https://academic.microsoft.com/author/2238227854" title="Microsoft Academic"><i class="fab fa-microsoft"></i> Microsoft Academic </a>{: .btn  .btn--info}
  <a href="https://www.mendeley.com/profiles/stefano-mariani3/publications/" title="Mendeley"><i class="fab fa-mendeley"></i> Mendeley </a>{: .btn  .btn--info}
+ 
+ - Research platforms:
+ <a href="https://www.semanticscholar.org/author/144124633" title="Semantic Scholar"> ResearchGate </a>{: .btn  .btn--info}
 
  - CV in various formats:
 
