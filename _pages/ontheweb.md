@@ -25,7 +25,7 @@ Me according to popular digital libraries, bibliography portals, and academia so
  <a href="https://www.mendeley.com/profiles/stefano-mariani3/publications/" title="Mendeley"><i class="fab fa-mendeley"></i> Mendeley </a>{: .btn  .btn--info}
  
  - Research platforms:
- <a href="https://www.semanticscholar.org/author/144124633" title="Semantic Scholar"> ResearchGate </a>{: .btn  .btn--info}
+ <a href="https://www.semanticscholar.org/author/144124633" title="Semantic Scholar"> Semantic Scholar </a>{: .btn  .btn--info}
 
  - CV in various formats:
 
