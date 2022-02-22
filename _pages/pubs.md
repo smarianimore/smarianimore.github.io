@@ -70,8 +70,8 @@ Enjoy :)
 
 **2021**
 
- - [[C50]](https://doi.org/10.1109/WoWMoM51794.2021.00047) *"WIP: Preliminary Evaluation of Digital Twins on MEC Software Architecture."* 22nd IEEE International Symposium on a World of Wireless, Mobile
-               and Multimedia Networks (WoWMoM 2021). IEEE.
+ - [[C51]](https://ieeexplore.ieee.org/document/9680501) *"An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections"* 30th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2021). IEEE.
+ - [[C50]](https://doi.org/10.1109/WoWMoM51794.2021.00047) *"WIP: Preliminary Evaluation of Digital Twins on MEC Software Architecture."* 22nd IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2021). IEEE.
  - [[C49]](https://doi.org/10.1109/PerComWorkshops51409.2021.9431003) *"Developing a 'Sense of Agency' in IoT Systems: Preliminary Experiments in a Smart Home Scenario."* 19th IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom workshops 2021). IEEE.
 
 **2020**
