@@ -72,6 +72,10 @@ Enjoy :)
 
 ### Conferences
 
+**2022**
+
+ - [[C52]](https://doi.org/10.1007/978-3-030-96627-0_14) *"Combining Coordination Strategies for Autonomous Vehicles in Intersections Networks"* 14th International Symposium on Intelligent Distributed Computing (IDC 2021). Springer.
+
 **2021**
 
  - [[C51]](https://ieeexplore.ieee.org/document/9680501) *"An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections"* 30th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2021). IEEE.
