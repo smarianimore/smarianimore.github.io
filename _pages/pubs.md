@@ -74,6 +74,7 @@ Enjoy :)
 
 **2022**
 
+ - [[C54]](https://ebooks.iospress.nl/volumearticle/60132) *"Self-Development and Causality in Intelligent Environments"* Ambient Intelligence and Smart Environments. IOS Press.
  - [[C53]](https://doi.org/10.1007/978-3-031-08143-9_7) *"Space-Fluid Adaptive Sampling: A Field-Based, Self-organising Approach"* Lecture Notes in Computer Science. Springer.
  - [[C52]](https://doi.org/10.1007/978-3-030-96627-0_14) *"Combining Coordination Strategies for Autonomous Vehicles in Intersections Networks"* 14th International Symposium on Intelligent Distributed Computing (IDC 2021). Springer.
 
