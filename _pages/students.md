@@ -21,7 +21,7 @@ If you find something appealing to you, here is the "protocol" that I usually fo
 3. **If you are still interested**, I send you some reading material to give you an even better idea of the tasks to carry out as part of the proposed activity
 4. **If you are still interested**, you [contact me](mailto:stefano.mariani@unimore.it) to formally set up the internship or thesis
 
-**Until step (4)**, you are not expected to finish the activity: it's just you trying to understand if you will like such activity as thesis or internship :)
+**Until step (4)**, _you are not expected to finish the activity_: it's just you trying to understand if you will like such activity as thesis or internship :)
 
 ## 1) Reinforcement learning in multiagent systems
 
