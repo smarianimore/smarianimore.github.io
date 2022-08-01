@@ -25,7 +25,7 @@ If you find something appealing to you, here is the "protocol" that I usually fo
 
 ## 1) Reinforcement learning in multiagent systems
 
-Mchine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
+Machine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
 However, modern software is rarely a monolithic entity that does everything by itself, rather a collection of indipendent services that *collaborate* to carry out a given task (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
 Modern software is thus usually a *multiagent system* where multiple software entities need to *coordinate* to achieve a given goal.
 
@@ -57,8 +57,20 @@ The following activities unfold within this theme.
 
 ## 2) Causal discovery and inference in the Internet of Things
 
-Under construction
-{:class .notice--info}
+Machine learning and deep learning techniques are nowadays pervasively used in everyday applications and devices (e.g. on smartphones) for their ability to accurately recognise *patterns of associations* between data.
+However, this ability also is one their limits: they can unveil associations between data, but can't tell if such associations are in a *cause-effect* relationship (generally speaking).
+
+[Causal discovery and inference](), instead, have exactly this ability to distinguish *causation from correlation*, hence are mostly used in critical domains such as healthcare, plant automation control, fault diagnosis.
+
+The following activities unfold within this theme.
+
+**Activities:**
+
+ 1. apply [causal discovery algorithms](https://causalinference.gitlab.io/kdd-tutorial/pointers.html) to learn causal models of a domain of interest, such as smart homes (how sensors and actuators affect each other)
+ 2. apply [Bayesian structure learning](https://ermongroup.github.io/cs228-notes/learning/structure/) to do the same
+ 3. play with the causal discovery algorithms available [here](https://github.com/rguo12/awesome-causality-algorithms#causal-discovery) on thr datasets available [there](https://github.com/rguo12/awesome-causality-data#datasets-for-learning-causal-relationships-causal-discovery). The goal is to assess both algorithms (for accuracy and performance) and the datasets (ease of usage, completeness, etc.)
+ 4. play with **causal models / Bayesian networks libraries** (such as [CausalNex](https://causalnex.readthedocs.io/en/latest/index.html) or [MS DoWhy](https://microsoft.github.io/dowhy/)) to assess their abilities (e.g. support to learning, performance of inference algorithms, etc.)
+ 5. extend any given causal discovery algorithm to a **distributed setting**, where data available for learning is not gathered at a single point, but is scattered across many networked databases
 
 ## 3) Coordination of vehicles for urban traffic management
 
