@@ -74,6 +74,9 @@ The following activities unfold within this theme.
 
 ## 3) Coordination of vehicles for urban traffic management
 
+Under construction
+{:class .notice--info}
+
 Being stuck in traffic is not funny for anyone...while self-driving cars could relieve us from the duty of daily driving, *cooperative driving* is necessary to enable self-driving cars to handle complex situations like crossing intersections, that require the coordination of multiple vehicles to establish a safe crossing order.
 Urban traffic management is thus an abundant source of *coordination problems* that future autonomous and connected vehicles will need to tackle to successfully hit the streets.
 The following activities unfold in this domain.
@@ -97,6 +100,9 @@ The following activities unfold in this domain.
  - Enrico Rossini. *"Attraversamento di incroci per auto a guida autonoma: protocolli e simulazione."* Bachelor degree in Management Engineering, 2019/2020.
 
 ## 4) Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
+
+Under construction
+{:class .notice--info}
 
 Many daily activities we carry out are assisted by software (e.g. digital assistants like Siri, Alexa, etc.), that (1) exploit artificial intelligence techniques, e.g. Machine Learning (ML), to deliver their services, and (2) work together with many other software entities to accomplish tasks (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
 
