@@ -29,5 +29,7 @@ Me according to popular digital libraries, bibliography portals, and academia so
 
  - CV in various formats:
 
-   - Full academic CV in .pdf: [[CV]]({{ site.url }}/assets/CV-ita.pdf) (in *italian*)
+   - Full academic CV in .pdf: 
+     - in italian: [[CV]]({{ site.url }}/assets/CV-ita.pdf)
+     - in english: [[CV]]({{ site.url }}/assets/CV-en.pdf)
    - Short CV in .pdf: [[CV]]({{ site.url }}/assets/SM-CV-europass-en.pdf) (in *english*)
