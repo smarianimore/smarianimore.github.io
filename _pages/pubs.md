@@ -74,6 +74,7 @@ Enjoy :)
 
 **2022**
 
+ - [[C56]](https://doi.org/10.1007/978-3-031-20179-0_8) *"About Digital Twins, Agents, and Multiagent Systems: A Cross-Fertilisation Journey"* Autonomous Agents and Multiagent Systems. Best and Visionary Papers. Springer.
  - [[C55]](https://annals-csis.org/Volume_30/drp/pdf/301.pdf) *"Individual and Collective Self-Development: Concepts and Challenges"* Proceedings of the 17th Conference on Computer Science and Intelligence Systems. IEEE.
  - [[C54]](https://ebooks.iospress.nl/volumearticle/60132) *"Self-Development and Causality in Intelligent Environments"* Ambient Intelligence and Smart Environments. IOS Press.
  - [[C53]](https://doi.org/10.1007/978-3-031-08143-9_7) *"Space-Fluid Adaptive Sampling: A Field-Based, Self-organising Approach"* Lecture Notes in Computer Science. Springer.
