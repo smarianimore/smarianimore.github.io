@@ -176,6 +176,11 @@ Enjoy :)
 
 ### Conferences
 
+**2022**
+
+ - [[C23]](https://smarianimore.github.io/2022-prima-ArgCoopDriving/) *"Cooperative Driving at Intersections Through Agent-Based Argumentation"* 24th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA). Valencia, Spain, 16-18/11/2022.
+ - [[C22]](https://smarianimore.github.io/2022-emas-DT-mas/) *"About Digital Twins, agents, and multiagent systems: a cross-fertilisation journey"* 10th International Workshop on Engineering Multi-Agent Systems (EMAS). Online, 9-10/5/2022.
+
 **2021**
 
  - [[C21]](https://smarianimore.github.io/2021-wetice-adaptive-intersections/) *"An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections."* 30th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE). Online, 27-29/10/2021.
