@@ -74,6 +74,7 @@ Enjoy :)
 
 **2022**
 
+ - [[C57]](https://doi.org/10.1007/978-3-031-21203-1_3) *"Cooperative Driving at Intersections Through Agent-Based Argumentation"* 24th International Conference on Principles and Practice of Multi-Agent Systems. Springer.
  - [[C56]](https://doi.org/10.1007/978-3-031-20179-0_8) *"About Digital Twins, Agents, and Multiagent Systems: A Cross-Fertilisation Journey"* Autonomous Agents and Multiagent Systems. Best and Visionary Papers. Springer.
  - [[C55]](https://annals-csis.org/Volume_30/drp/pdf/301.pdf) *"Individual and Collective Self-Development: Concepts and Challenges"* Proceedings of the 17th Conference on Computer Science and Intelligence Systems. IEEE.
  - [[C54]](https://ebooks.iospress.nl/volumearticle/60132) *"Self-Development and Causality in Intelligent Environments"* Ambient Intelligence and Smart Environments. IOS Press.
