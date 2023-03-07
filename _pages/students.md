@@ -37,10 +37,11 @@ The following activities unfold within this theme.
 **Activities**
 
  1. apply [reinforcement learning](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec) to [NetLogo](https://ccl.northwestern.edu/netlogo/) multi-agent system models for **self-organisation** such as [slime mold aggregation](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Slime.nlogo), [ant foraging](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Ants.nlogo), [prey-predator](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo). The goal is to let agents learn to communicate / cooperate / coordinate to achieve a shared goal.
- 2. apply [curriculum learning](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy0IVj8Ju#Introduction) (read only the intro) in the same models
- 3. apply [transfer learning](https://www.seldon.io/transfer-learning#:~:text=Transfer%20learning%20means%20taking%20the,to%20solve%20a%20specific%20task.) (just get the idea) in the same models
- 4. apply [reinforcement learning](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec) to **cooperative driving** scenarios (such as intersection crossing by self-driving vehicles) in custom simulators such as [highway-env](https://highway-env.readthedocs.io/en/latest/index.html), [Flow](https://flow.readthedocs.io/en/latest/), or [SUMO-RL](https://github.com/LucasAlegre/sumo-rl). The goal is to let agents (vehicles, or traffic lights, or intersection controllers) learn how to drive in traffic.
- 5. adapt existing multi-agent learning environments to learn how to communicate / cooperate / coordinate to achieve better results. Examplary environments (like "games"):
+ 2. implement such environments in Python by using [PyGame](https://www.pygame.org/wiki/about) to avoid the limitations of NetLogo
+ 3. apply [curriculum learning](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy0IVj8Ju#Introduction) (read only the intro) in the same models
+ 4. apply [transfer learning](https://www.seldon.io/transfer-learning#:~:text=Transfer%20learning%20means%20taking%20the,to%20solve%20a%20specific%20task.) (just get the idea) in the same models
+ 5. apply [reinforcement learning](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec) to **cooperative driving** scenarios (such as intersection crossing by self-driving vehicles) in custom simulators such as [highway-env](https://highway-env.readthedocs.io/en/latest/index.html), [Flow](https://flow.readthedocs.io/en/latest/), [SUMO-RL](https://github.com/LucasAlegre/sumo-rl), or [MetaDrive](https://github.com/metadriverse/metadrive). The goal is to let agents (vehicles, or traffic lights, or intersection controllers) learn how to drive in traffic.
+ 6. adapt existing multi-agent learning environments to learn how to communicate / cooperate / coordinate to achieve better results. Examplary environments (like "games"):
 
     * [PettingZoo MAgent](https://www.pettingzoo.ml/magent)
     * [PettingZoo MPE](https://www.pettingzoo.ml/mpe)
@@ -69,8 +70,8 @@ The following activities unfold within this theme.
 
  1. apply [causal discovery algorithms](https://causalinference.gitlab.io/kdd-tutorial/pointers.html) to learn causal models of a domain of interest, such as smart homes (how sensors and actuators affect each other)
  2. apply [Bayesian structure learning](https://ermongroup.github.io/cs228-notes/learning/structure/) to do the same
- 3. play with the causal discovery algorithms available [here](https://github.com/rguo12/awesome-causality-algorithms#causal-discovery) on thr datasets available [there](https://github.com/rguo12/awesome-causality-data#datasets-for-learning-causal-relationships-causal-discovery). The goal is to assess both algorithms (for accuracy and performance) and the datasets (ease of usage, completeness, etc.)
- 4. play with **causal models / Bayesian networks libraries** (such as [CausalNex](https://causalnex.readthedocs.io/en/latest/index.html) or [MS DoWhy](https://microsoft.github.io/dowhy/)) to assess their abilities (e.g. support to learning, performance of inference algorithms, etc.)
+ 3. play with the causal discovery algorithms available [here](https://github.com/rguo12/awesome-causality-algorithms#causal-discovery) on the datasets available [there](https://github.com/rguo12/awesome-causality-data#datasets-for-learning-causal-relationships-causal-discovery). The goal is to assess both algorithms (for accuracy and performance) and the datasets (ease of usage, completeness, etc.)
+ 4. play with **causal models / Bayesian networks libraries** (such as [CausalNex](https://causalnex.readthedocs.io/en/latest/index.html), [Benchpress](https://github.com/felixleopoldo/benchpress), and [YLearn](https://github.com/DataCanvasIO/YLearn) to assess their abilities (e.g. support to learning, performance of inference algorithms, etc.)
  5. extend any given causal discovery algorithm to a **distributed setting**, where data available for learning is not gathered at a single point, but is scattered across many networked databases
 
 **Concluded**
