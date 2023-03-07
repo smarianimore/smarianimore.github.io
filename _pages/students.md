@@ -52,6 +52,7 @@ The following activities unfold within this theme.
 
 **Concluded**
 
+ - Luca Tusini. *"Apprendimento per rinforzo di tecniche di comunicazione mediata per il coordinamento di sciami artificiali."* Bachelor degree in Management Engineering, 2021/2022.
  - Riccardo Santi. *"Esperimenti di transfer learning per reti neurali con robot mobili."* Bachelor degree in Management Engineering, 2021/2022
  - Matteo Sigolotto. *"Apprendimento autonomo in sistemi IoT mediante Reti Bayesiane."* Master degree in Computer Science Engineering, 2018/2019
 
@@ -71,6 +72,10 @@ The following activities unfold within this theme.
  3. play with the causal discovery algorithms available [here](https://github.com/rguo12/awesome-causality-algorithms#causal-discovery) on thr datasets available [there](https://github.com/rguo12/awesome-causality-data#datasets-for-learning-causal-relationships-causal-discovery). The goal is to assess both algorithms (for accuracy and performance) and the datasets (ease of usage, completeness, etc.)
  4. play with **causal models / Bayesian networks libraries** (such as [CausalNex](https://causalnex.readthedocs.io/en/latest/index.html) or [MS DoWhy](https://microsoft.github.io/dowhy/)) to assess their abilities (e.g. support to learning, performance of inference algorithms, etc.)
  5. extend any given causal discovery algorithm to a **distributed setting**, where data available for learning is not gathered at a single point, but is scattered across many networked databases
+
+**Concluded**
+
+ - Pasquale Roseti. *"Multi-agent Learning of Causal Models in a Smart Home Environment."* Master degree in Computer Science Engineering, 2021/2022.
 
 ## 3) Coordination of vehicles for urban traffic management
 
@@ -93,6 +98,7 @@ The following activities unfold in this domain.
 
 **Concluded**
 
+ - Luca Bordini. *"Multiagent Reinforcement Learning Strategies for Intersection Networks"* Master degree in Computer Science Engineering, 2021/2022.
  - Dario Ferrari. *"Coordinamento di veicoli autonomi basato su tecniche di argimentazione: simulatore ed esperimenti."* Bachelor degree in Management Engineering, 2021/2022.
  - Nicholas Glorio. *"Strategie per la gestione delle intersezioni in presenza di veicoli autonomi."* Master degree in Computer Science Engineering, 2020/2021.
  - Marco Gambelli. *"Gestione di incroci stradali per veicoli a guida autonoma basata su algoritmi a prenotazione e ad asta."* Master degree in Computer Science Engineering, 2020/2021.
@@ -179,6 +185,13 @@ Under construction
 
 **Concluded**
 
+ - Angelo Zerlenga. *"Sviluppo di una webapp per l’assistenza alla mobilità elettrica: R(e)CHARGE"* Bachelor degree in Management Engineering, 2021/2022.
+ - Maicol Spaggiari. *"BITCOIN: TRA TECNOLOGIA E RIVOLUZIONE MONETARIA."* Bachelor degree in Management Engineering, 2021/2022.
+ - Riccardo Rivi. *"Analisi predittiva di indici azionari: confronto tra modelli nel caso di S&P 500"* Bachelor degree in Management Engineering, 2021/2022.
+ - Gianluca Milano. *"Identità digitale: la tecnologia Blockchain per documenti e certificazioni digitali"* Master degree in Management Engineering, 2021/2022.
+ - Giacomo Nasi. *"Digital Twin applicati all’ IoT: esperimenti con la piattaforma OneM2M."* Bachelor degree in Management Engineering, 2021/2022.
+ - Carmen Tomaiuolo. *"La tecnologia EDI come strumento di integrazione: definizione, funzioni, il caso aziendale."* Bachelor degree in Management Engineering, 2021/2022.
+ - Salvatore La Pica. *"Utilizzo della Blockchain e degli Smart Contract in ambito risorse umane e supply chain"* Bachelor degree in Management Engineering, 2020/2021.
  - Luca Morini. *"Non SprECO: la web app per monitorare il proprio impatto ambientale quotidiano."* Bachelor degree in Management Engineering, 2020/2021.
  - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
  - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: rischi e misure protettive per lo smart working."* Bachelor degree in Management Engineering, 2019/2020.
