@@ -26,6 +26,10 @@ Enjoy :)
 
 ### Journals
 
+**2023**
+
+ - [[R21]](https://doi.org/10.1016/j.cmpb.2023.107525) *"A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends"* Computer Methods and Programs in Biomedicine. Elsevier.
+
 **2022**
 
  - [[R20]](https://dl.acm.org/doi/abs/10.1145/3507909) *"Web of Digital Twins"* ACM Transactions on Internet Technology. ACM.
@@ -164,6 +168,7 @@ Enjoy :)
 
 ### Others
 
+ - [[A8]](https://doi.org/10.3390/app13053027) 2023. *"Special Issue 'Advances in Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A7]](http://dx.doi.org/10.3390/app10155329) 2020. *"Special Issue 'Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A6]](http://dx.doi.org/10.1007/s10916-020-01601-x) 2020. *"Guest Editorial: Healthcare Intelligent Multi Agent Systems."* Journal of Medical Systems. Springer. *(editorial)*
  - [[A5]](http://dx.doi.org/10.5334/ijic.s3176) 2019. *"Deliver intelligence to integrate care: the Connecare way."* International Journal of Integrated Care. *(extended conference abstract)*
