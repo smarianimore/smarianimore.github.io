@@ -26,6 +26,14 @@ Enjoy :)
 
 ### Journals
 
+**2023**
+
+ - [[R21]](https://doi.org/10.1016/j.cmpb.2023.107525) *"A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends"* Computer Methods and Programs in Biomedicine. Elsevier.
+
+**2022**
+
+ - [[R20]](https://dl.acm.org/doi/abs/10.1145/3507909) *"Web of Digital Twins"* ACM Transactions on Internet Technology. ACM.
+
 **2021**
 
  - [[R19]](https://doi.org/10.46298/lmcs-17(4:13)2021) *"Time-Fluid Field-Based Coordination through Programmable Distributed Schedulers."* Logical Methods in Computer Science. EPIsciences.
@@ -68,10 +76,19 @@ Enjoy :)
 
 ### Conferences
 
+**2022**
+
+ - [[C57]](https://doi.org/10.1007/978-3-031-21203-1_3) *"Cooperative Driving at Intersections Through Agent-Based Argumentation"* 24th International Conference on Principles and Practice of Multi-Agent Systems. Springer.
+ - [[C56]](https://doi.org/10.1007/978-3-031-20179-0_8) *"About Digital Twins, Agents, and Multiagent Systems: A Cross-Fertilisation Journey"* Autonomous Agents and Multiagent Systems. Best and Visionary Papers. Springer.
+ - [[C55]](https://annals-csis.org/Volume_30/drp/pdf/301.pdf) *"Individual and Collective Self-Development: Concepts and Challenges"* Proceedings of the 17th Conference on Computer Science and Intelligence Systems. IEEE.
+ - [[C54]](https://ebooks.iospress.nl/volumearticle/60132) *"Self-Development and Causality in Intelligent Environments"* Ambient Intelligence and Smart Environments. IOS Press.
+ - [[C53]](https://doi.org/10.1007/978-3-031-08143-9_7) *"Space-Fluid Adaptive Sampling: A Field-Based, Self-organising Approach"* Lecture Notes in Computer Science. Springer.
+ - [[C52]](https://doi.org/10.1007/978-3-030-96627-0_14) *"Combining Coordination Strategies for Autonomous Vehicles in Intersections Networks"* 14th International Symposium on Intelligent Distributed Computing (IDC 2021). Springer.
+
 **2021**
 
- - [[C50]](https://doi.org/10.1109/WoWMoM51794.2021.00047) *"WIP: Preliminary Evaluation of Digital Twins on MEC Software Architecture."* 22nd IEEE International Symposium on a World of Wireless, Mobile
-               and Multimedia Networks (WoWMoM 2021). IEEE.
+ - [[C51]](https://ieeexplore.ieee.org/document/9680501) *"An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections"* 30th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2021). IEEE.
+ - [[C50]](https://doi.org/10.1109/WoWMoM51794.2021.00047) *"WIP: Preliminary Evaluation of Digital Twins on MEC Software Architecture."* 22nd IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2021). IEEE.
  - [[C49]](https://doi.org/10.1109/PerComWorkshops51409.2021.9431003) *"Developing a 'Sense of Agency' in IoT Systems: Preliminary Experiments in a Smart Home Scenario."* 19th IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom workshops 2021). IEEE.
 
 **2020**
@@ -151,6 +168,7 @@ Enjoy :)
 
 ### Others
 
+ - [[A8]](https://doi.org/10.3390/app13053027) 2023. *"Special Issue 'Advances in Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A7]](http://dx.doi.org/10.3390/app10155329) 2020. *"Special Issue 'Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A6]](http://dx.doi.org/10.1007/s10916-020-01601-x) 2020. *"Guest Editorial: Healthcare Intelligent Multi Agent Systems."* Journal of Medical Systems. Springer. *(editorial)*
  - [[A5]](http://dx.doi.org/10.5334/ijic.s3176) 2019. *"Deliver intelligence to integrate care: the Connecare way."* International Journal of Integrated Care. *(extended conference abstract)*
@@ -163,8 +181,15 @@ Enjoy :)
 
 ### Conferences
 
+**2022**
+
+ - [[C23]](https://smarianimore.github.io/2022-prima-ArgCoopDriving/) *"Cooperative Driving at Intersections Through Agent-Based Argumentation"* 24th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA). Valencia, Spain, 16-18/11/2022.
+ - [[C22]](https://smarianimore.github.io/2022-emas-DT-mas/) *"About Digital Twins, agents, and multiagent systems: a cross-fertilisation journey"* 10th International Workshop on Engineering Multi-Agent Systems (EMAS). Online, 9-10/5/2022.
+
 **2021**
 
+ - [[C21]](https://smarianimore.github.io/2021-wetice-adaptive-intersections/) *"An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections."* 30th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE). Online, 27-29/10/2021.
+ - [[C20]](https://smarianimore.github.io/2021-isola-autonomy-vehicles/) *"Degrees of Autonomy in Coordinating Collectives of Self-Driving Vehicles."* 10th International Symposium On Leveraging Applications of Formal Methods, Verification and Validation (ISOLA). Hybrid, 25-29/10/2021.
  - [[C19]]({{ site.url }}/assets/talks/IDC2021.pdf) *"Combining Coordination Strategies for Autonomous Vehicles in Intersection Networks."* 14th International Symposium on Intelligent Distributed Computing (IDC). Online, 16-18/9/2021.
  - [[C18]]({{ site.url }}/assets/talks/A2HC2021-BDI-cognitive.pdf) *"Augmenting BDI agency with a Cognitive Service: general architecture and validation in healthcare domain."* XIII International Workshop on Agents Applied in Healthcare (A2HC). Online, 04/05/2021. ([video](https://youtu.be/giVDFfjlu3o))
  - [[C17]]({{ site.url }}/assets/talks/CoMoRea2021.pdf) *"Developing a “Sense of Agency” in IoT Systems: Preliminary Experiments in a Smart Home Scenario."* XVII International Workshop on Context and Activity Modeling and Recognition (CoMoReA). Online, 22/03/2021. ([video](https://youtu.be/KeMAInq0HEg))

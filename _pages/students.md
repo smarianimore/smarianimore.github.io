@@ -7,19 +7,25 @@ toc_icon: "fas fa-book-open"
 
 ## Overview
 
-If you like **programming**, **data analysis**, **machine learning**, tinkering with **Internet of Things** devices, or mess around with **networked computers**, you're in the right place :)
+If you like **programming**, **machine learning**, **data analysis**, tinkering with **Internet of Things** devices, or mess around with **networked computers**, you're in the right place :)
 
-Here below I keep track of available thesis and internships, as well as past ones (to help you get an idea of what to expect based on what your colleagues did in the past).
-While scrolling through the proposals, keep in mind that **most internships may become thesis and most thesis can scale down to an internship**, hence if you find something interesting but in the "wrong" category, *do not lose hope*: [contact me](mailto:stefano.mariani@unimore.it) and we'll manage to adapt the proposal to your needs!
+Here below you can find a list of proposed "activities", as well as a record of concluded thesis and internships.
+Each ctivity may become a **thesis or internship** depending on the that goal we, together, decide to achieve, and on the expected effort required to achieve it.
+Activities are roughly divided in categories, representing the research topic they are meant to deal with: if you find an appealing topic, but not a satisfactory proposal therein, [contact me](mailto:stefano.mariani@unimore.it) and we'll discuss your own proposals :)
+Finally, the numbers you see both in categories and proposals of activities therein **are not** a ranking of importance or a priority score, but merely a **reference number** to ease communications.
 
-Also, proposals are roughly divided in categories, representing the research topic they are meant to deal with: if you find an appealing topic, but not a satisfactory proposal therein, [contact me](mailto:stefano.mariani@unimore.it) and we'll discuss your own proposals :)
-The numbers you see in both categories and proposals of activities therein **are not** a ranking of importance or a priority score, but merely a **reference number** to ease communications.
+If you find something appealing to you, here is the "protocol" that I usually follow for setting up the thesis or internship:
 
-Finally, if you have **your own proposal** for a thesis or an internship [contact me](mailto:stefano.mariani@unimore.it), *even if not covering the topics below*, and we'll discuss.
+1. You [contact me](mailto:stefano.mariani@unimore.it) to tell me which categories or activities you find appealing
+2. We set up a quick meeting (either virtual or in presence) where I better describe the topic or proposal, giving you an overview and some reference examples of activities
+3. **If you are still interested**, I send you some reading material to give you an even better idea of the tasks to carry out as part of the proposed activity
+4. **If you are still interested**, you [contact me](mailto:stefano.mariani@unimore.it) to formally set up the internship or thesis
 
-## 1) Causal reasoning, Bayesian and reinforcement learning in multiagent systems and IoT
+**Until step (4)**, _you are not expected to finish the activity_: it's just you trying to understand if you will like such activity as thesis or internship :)
 
-Mchine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
+## 1) Reinforcement learning in multiagent systems
+
+Machine Learning (ML) is now pervasive in our everyday lives (Google translate, Siri speech recognition, etc.) and successfully applied in many application domains where a software (an *agent*) needs to learn to do something.
 However, modern software is rarely a monolithic entity that does everything by itself, rather a collection of indipendent services that *collaborate* to carry out a given task (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
 Modern software is thus usually a *multiagent system* where multiple software entities need to *coordinate* to achieve a given goal.
 
@@ -28,29 +34,82 @@ Instead, letting agents *learn how to interact socially* is yet underexplored in
 
 The following activities unfold within this theme.
 
-**Thesis**
+**Activities**
 
- 1. apply either form of learning ([reinforcement](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec), [structural bayesian](https://ojs.aaai.org//index.php/aimagazine/article/view/918), [causal](https://www.cs.ubc.ca/~murphyk/Papers/intro_gm.pdf)) to let agents in a MAS, or devices in a Internet of Things (IoT) deployment, learn from scratch known interaction protocols (e.g. [FIPA protocols](http://www.fipa.org/repository/ips.php3))
- 2. given a pre-built Bayesian network, or causal structural model, let agents interact according to it to accomplish given goals (e.g. in a IoT scenario of choice). *Optionally*, let agents explain their course of actions by using the model (Bayesian or causal) as [argumentation graph](http://www.cs.uu.nl/docs/vakken/mcarg/)
- 3. based on open datasets to be found on the web (e.g. assisted living or smart homes domain, [this](https://lig-getalp.imag.fr/fr/health-smart-home-his-datasets/) or [that](https://project.inria.fr/toyotasmarthome/)), implement causal discovery algorithms from the scientific literature and test them on such data (e.g. [this one](https://ieeexplore.ieee.org/abstract/document/9196246))
+ 1. apply [reinforcement learning](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec) to [NetLogo](https://ccl.northwestern.edu/netlogo/) multi-agent system models for **self-organisation** such as [slime mold aggregation](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Slime.nlogo), [ant foraging](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Ants.nlogo), [prey-predator](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo). The goal is to let agents learn to communicate / cooperate / coordinate to achieve a shared goal.
+ 2. implement such environments in Python by using [PyGame](https://www.pygame.org/wiki/about) to avoid the limitations of NetLogo
+ 3. apply [curriculum learning](https://hackmd.io/@FtbpSED3RQWclbmbmkChEA/Sy0IVj8Ju#Introduction) (read only the intro) in the same models
+ 4. apply [transfer learning](https://www.seldon.io/transfer-learning#:~:text=Transfer%20learning%20means%20taking%20the,to%20solve%20a%20specific%20task.) (just get the idea) in the same models
+ 5. apply [reinforcement learning](https://towardsdatascience.com/the-ultimate-beginners-guide-to-reinforcement-learning-588c071af1ec) to **cooperative driving** scenarios (such as intersection crossing by self-driving vehicles) in custom simulators such as [highway-env](https://highway-env.readthedocs.io/en/latest/index.html), [Flow](https://flow.readthedocs.io/en/latest/), [SUMO-RL](https://github.com/LucasAlegre/sumo-rl), or [MetaDrive](https://github.com/metadriverse/metadrive). The goal is to let agents (vehicles, or traffic lights, or intersection controllers) learn how to drive in traffic.
+ 6. adapt existing multi-agent learning environments to learn how to communicate / cooperate / coordinate to achieve better results. Examplary environments (like "games"):
 
-**Internships**
-
- 1. survey application of causal reasoning (inference + learning) techniques in multiagent systems
- 2. survey application of causal reasoning (inference + learning) techniques in IoT
- 3. experiment with [OpenAI Gym](https://gym.openai.com) and/or similar for reinforcement learning
- 4. experiment with [PyAgrum](https://pyagrum.readthedocs.io/en/0.18.2/index.html) and/or similar for bayesian learning
- 5. experiment with [MS DoWhy](https://microsoft.github.io/dowhy/) and/or similar for causal modelling, reasoning, (learning?)
- 6. experiment with the [iCasa](http://self-star.imag.fr) smart home simulator to generate a dataset suitable for the ebove learning mechanisms
- 7. experiment with [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/#!videos) for multiagent reinforcement learning
- 8. experiment with [OpenAI NeuralMMO](https://openai.com/blog/neural-mmo/) for massive multiagent reinforcement learning
+    * [PettingZoo MAgent](https://www.pettingzoo.ml/magent)
+    * [PettingZoo MPE](https://www.pettingzoo.ml/mpe)
+    * [PettingZoo StugHunt](https://github.com/NullDefault/Gym-Stag-Hunt)
+    * [PettingZoo Social dilemmas](https://github.com/eugenevinitsky/sequential_social_dilemma_games)
+    * [PettingZoo CookingZoo](https://github.com/DavidRother/gym-cooking) (inspired to popular game [Overcooked](https://store.epicgames.com/it/p/overcooked)!)
+    * [DeepMind OpenSpiel](https://github.com/deepmind/open_spiel/blob/master/docs/games.md) (only some of them, such as Hanabi, Pathfinding, Routing game)
+    * [Google Football](https://ai.googleblog.com/2019/06/introducing-google-research-football.html) (yes, you can get a grasp of what developing the AI for games like PES and FIFA may look like!)
 
 **Concluded**
 
+ - Luca Tusini. *"Apprendimento per rinforzo di tecniche di comunicazione mediata per il coordinamento di sciami artificiali."* Bachelor degree in Management Engineering, 2021/2022.
  - Riccardo Santi. *"Esperimenti di transfer learning per reti neurali con robot mobili."* Bachelor degree in Management Engineering, 2021/2022
  - Matteo Sigolotto. *"Apprendimento autonomo in sistemi IoT mediante Reti Bayesiane."* Master degree in Computer Science Engineering, 2018/2019
 
-## 2) Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
+## 2) Causal discovery and inference in the Internet of Things
+
+Machine learning and deep learning techniques are nowadays pervasively used in everyday applications and devices (e.g. on smartphones) for their ability to accurately recognise *patterns of associations* between data.
+However, this ability also is one their limits: they can unveil associations between data, but can't tell if such associations are in a *cause-effect* relationship (generally speaking).
+
+[Causal discovery and inference](), instead, have exactly this ability to distinguish *causation from correlation*, hence are mostly used in critical domains such as healthcare, plant automation control, fault diagnosis.
+
+The following activities unfold within this theme.
+
+**Activities:**
+
+ 1. apply [causal discovery algorithms](https://causalinference.gitlab.io/kdd-tutorial/pointers.html) to learn causal models of a domain of interest, such as smart homes (how sensors and actuators affect each other)
+ 2. apply [Bayesian structure learning](https://ermongroup.github.io/cs228-notes/learning/structure/) to do the same
+ 3. play with the causal discovery algorithms available [here](https://github.com/rguo12/awesome-causality-algorithms#causal-discovery) on the datasets available [there](https://github.com/rguo12/awesome-causality-data#datasets-for-learning-causal-relationships-causal-discovery). The goal is to assess both algorithms (for accuracy and performance) and the datasets (ease of usage, completeness, etc.)
+ 4. play with **causal models / Bayesian networks libraries** (such as [CausalNex](https://causalnex.readthedocs.io/en/latest/index.html), [Benchpress](https://github.com/felixleopoldo/benchpress), and [YLearn](https://github.com/DataCanvasIO/YLearn) to assess their abilities (e.g. support to learning, performance of inference algorithms, etc.)
+ 5. extend any given causal discovery algorithm to a **distributed setting**, where data available for learning is not gathered at a single point, but is scattered across many networked databases
+
+**Concluded**
+
+ - Pasquale Roseti. *"Multi-agent Learning of Causal Models in a Smart Home Environment."* Master degree in Computer Science Engineering, 2021/2022.
+
+## 3) Coordination of vehicles for urban traffic management
+
+Under construction
+{:class .notice--info}
+
+Being stuck in traffic is not funny for anyone...while self-driving cars could relieve us from the duty of daily driving, *cooperative driving* is necessary to enable self-driving cars to handle complex situations like crossing intersections, that require the coordination of multiple vehicles to establish a safe crossing order.
+Urban traffic management is thus an abundant source of *coordination problems* that future autonomous and connected vehicles will need to tackle to successfully hit the streets.
+The following activities unfold in this domain.
+
+**Thesis**
+
+ 1. experiment with existing agent-based simulators adopted/adapted in traffic management domain
+ 2. design and implement an agent-based microscopic traffic simulator
+
+**Internships**
+
+ 1. experiment with the [SUMO](https://sumo.dlr.de/docs/index.html) traffic simulator to implement state of the art intersection crossing strategies
+ 2. develop a Graphical User Interface (GUI) for a [simple simulator](https://github.com/DarioFerrari-git/AutoA) developed by graduate student Dario Ferrari
+
+**Concluded**
+
+ - Luca Bordini. *"Multiagent Reinforcement Learning Strategies for Intersection Networks"* Master degree in Computer Science Engineering, 2021/2022.
+ - Dario Ferrari. *"Coordinamento di veicoli autonomi basato su tecniche di argimentazione: simulatore ed esperimenti."* Bachelor degree in Management Engineering, 2021/2022.
+ - Nicholas Glorio. *"Strategie per la gestione delle intersezioni in presenza di veicoli autonomi."* Master degree in Computer Science Engineering, 2020/2021.
+ - Marco Gambelli. *"Gestione di incroci stradali per veicoli a guida autonoma basata su algoritmi a prenotazione e ad asta."* Master degree in Computer Science Engineering, 2020/2021.
+ - Andrea Vitali. *"Esperimenti di coordinazione veicolare tramite blockchain."* Master degree in Computer Science Engineering, 2019/2020.
+ - Enrico Rossini. *"Attraversamento di incroci per auto a guida autonoma: protocolli e simulazione."* Bachelor degree in Management Engineering, 2019/2020.
+
+## 4) Argumentation protocols for joint deliberation/action and situation recognition in multiagent systems and IoT
+
+Under construction
+{:class .notice--info}
 
 Many daily activities we carry out are assisted by software (e.g. digital assistants like Siri, Alexa, etc.), that (1) exploit artificial intelligence techniques, e.g. Machine Learning (ML), to deliver their services, and (2) work together with many other software entities to accomplish tasks (e.g. Siri is connected to your Calendar, weather service, apps, etc.).
 
@@ -77,31 +136,7 @@ Many techniques exist to make ML *explainable*, that is able to otivate their de
  - Dario Ferrari. *"Coordinamento di veicoli autonomi basato su tecniche di argimentazione: simulatore ed esperimenti."* Bachelor degree in Management Engineering, 2021/2022.
  - Andrea Bicego. *"Progettazione di Servizi IoT basati su Protocolli di Argomentazione."* Master degree in Management Engineering, 2017/2018.
 
-## 3) Coordination of vehicles for urban traffic management
-
-Being stuck in traffic is not funny for anyone...while self-driving cars could relieve us from the duty of daily driving, *cooperative driving* is necessary to enable self-driving cars to handle complex situations like crossing intersections, that require the coordination of multiple vehicles to establish a safe crossing order.
-Urban traffic management is thus an abundant source of *coordination problems* that future autonomous and connected vehicles will need to tackle to successfully hit the streets.
-The following activities unfold in this domain.
-
-**Thesis**
-
- 1. experiment with existing agent-based simulators adopted/adapted in traffic management domain
- 2. design and implement an agent-based microscopic traffic simulator
-
-**Internships**
-
- 1. experiment with the [SUMO](https://sumo.dlr.de/docs/index.html) traffic simulator to implement state of the art intersection crossing strategies
- 2. develop a Graphical User Interface (GUI) for a [simple simulator](https://github.com/DarioFerrari-git/AutoA) developed by graduate student Dario Ferrari
-
-**Concluded**
-
- - Dario Ferrari. *"Coordinamento di veicoli autonomi basato su tecniche di argimentazione: simulatore ed esperimenti."* Bachelor degree in Management Engineering, 2021/2022.
- - Nicholas Glorio. *"Strategie per la gestione delle intersezioni in presenza di veicoli autonomi."* Master degree in Computer Science Engineering, 2020/2021.
- - Marco Gambelli. *"Gestione di incroci stradali per veicoli a guida autonoma basata su algoritmi a prenotazione e ad asta."* Master degree in Computer Science Engineering, 2020/2021.
- - Andrea Vitali. *"Esperimenti di coordinazione veicolare tramite blockchain."* Master degree in Computer Science Engineering, 2019/2020.
- - Enrico Rossini. *"Attraversamento di incroci per auto a guida autonoma: protocolli e simulazione."* Bachelor degree in Management Engineering, 2019/2020.
-
-## 4) Space-based coordination for smart cities applications
+<!--## 4) Space-based coordination for smart cities applications
 
 Under construction
 {:class .notice--info}
@@ -151,6 +186,13 @@ Under construction
 
 **Concluded**
 
+ - Angelo Zerlenga. *"Sviluppo di una webapp per l’assistenza alla mobilità elettrica: R(e)CHARGE"* Bachelor degree in Management Engineering, 2021/2022.
+ - Maicol Spaggiari. *"BITCOIN: TRA TECNOLOGIA E RIVOLUZIONE MONETARIA."* Bachelor degree in Management Engineering, 2021/2022.
+ - Riccardo Rivi. *"Analisi predittiva di indici azionari: confronto tra modelli nel caso di S&P 500"* Bachelor degree in Management Engineering, 2021/2022.
+ - Gianluca Milano. *"Identità digitale: la tecnologia Blockchain per documenti e certificazioni digitali"* Master degree in Management Engineering, 2021/2022.
+ - Giacomo Nasi. *"Digital Twin applicati all’ IoT: esperimenti con la piattaforma OneM2M."* Bachelor degree in Management Engineering, 2021/2022.
+ - Carmen Tomaiuolo. *"La tecnologia EDI come strumento di integrazione: definizione, funzioni, il caso aziendale."* Bachelor degree in Management Engineering, 2021/2022.
+ - Salvatore La Pica. *"Utilizzo della Blockchain e degli Smart Contract in ambito risorse umane e supply chain"* Bachelor degree in Management Engineering, 2020/2021.
  - Luca Morini. *"Non SprECO: la web app per monitorare il proprio impatto ambientale quotidiano."* Bachelor degree in Management Engineering, 2020/2021.
  - Nicola Romano. *"Finanza decentralizzata: dalla tecnologia Blockchain ad una nuova finanza."* Master degree in Management Engineering, 2020/2021.
  - Carla Marangi. *"La sicurezza informatica ai tempi del COVID: rischi e misure protettive per lo smart working."* Bachelor degree in Management Engineering, 2019/2020.

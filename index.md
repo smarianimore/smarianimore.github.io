@@ -9,7 +9,7 @@ title: "Stefano Mariani's website"
 Welcome :)
 
 I'm Stefano Mariani, post-doc **researcher** and adjunct professor in the [Distributed and Pervasive Intelligence Group](http://dipi.unimore.it) at the [**Department of Sciences and Methods for Engineering**](https://www.dismi.unimore.it/site/en/home.html) of the **University of Modena and Reggio Emilia**, Italy.
-On my spare time (lol) I enjoy music, basketball, and being a father of two---although as females they often prefer fairies and makeup to dinosaurs and robots...oh well.
+On my spare time (lol) I enjoy music, basketball, and being a father of ~~two~~three (:D)---although as females they often prefer fairies and makeup to dinosaurs and robots...oh well.
 
 Now, back to business.
 
