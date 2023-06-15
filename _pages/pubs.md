@@ -76,6 +76,10 @@ Enjoy :)
 
 ### Conferences
 
+**2023**
+
+ - [[C58]](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2807.pdf) *"Towards Multi-agent Learning of Causal Networks"* 22nd International Conference on Autonomous Agents and Multiagent Systems.
+
 **2022**
 
  - [[C57]](https://doi.org/10.1007/978-3-031-21203-1_3) *"Cooperative Driving at Intersections Through Agent-Based Argumentation"* 24th International Conference on Principles and Practice of Multi-Agent Systems. Springer.
@@ -180,6 +184,10 @@ Enjoy :)
 ## Talks
 
 ### Conferences
+
+**2023**
+
+ - [[C24]](https://smarianimore.github.io/2023-emas-JaCaMo-WLDT/) *"Towards developing Digital Twin enabled Multi-Agent Systems"* 11th International Workshop on Engineering Multi-Agent Systems (EMAS). London, UK, 29-30/06/2023.
 
 **2022**
 
