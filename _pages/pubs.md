@@ -28,6 +28,7 @@ Enjoy :)
 
 **2023**
 
+ - [[R22]](https://doi.org/10.1007/s10472-023-09884-9) *"Agents and Digital Twins for the engineering of Cyber-Physical Systems: opportunities, and challenges"* Annals of Mathematics and Artificial Intelligence. Springer.
  - [[R21]](https://doi.org/10.1016/j.cmpb.2023.107525) *"A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends"* Computer Methods and Programs in Biomedicine. Elsevier.
 
 **2022**
