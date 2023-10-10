@@ -175,6 +175,7 @@ Enjoy :)
 
 ### Others
 
+ - [[A9]](https://drops.dagstuhl.de/opus/volltexte/2023/19182/pdf/dagrep_v013_i002_p071_23081.pdf) 2023. *"Agents on the Web."* Dagstuhl Reports. Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik. *(Dagstuhl report)*
  - [[A8]](https://doi.org/10.3390/app13053027) 2023. *"Special Issue 'Advances in Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A7]](http://dx.doi.org/10.3390/app10155329) 2020. *"Special Issue 'Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A6]](http://dx.doi.org/10.1007/s10916-020-01601-x) 2020. *"Guest Editorial: Healthcare Intelligent Multi Agent Systems."* Journal of Medical Systems. Springer. *(editorial)*
