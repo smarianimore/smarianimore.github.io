@@ -192,6 +192,8 @@ Enjoy :)
 
 **2023**
 
+ - [[C26]](https://smarianimore.github.io/2023-acsos-RL-swarms/) *"Learning Stigmergic Communication for Self-organising Coordination"* 4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS). Toronto, Canada, 25-29/09/2023.
+ - [[C25]](https://smarianimore.github.io/2023-paams-causal-learning-mas/) *"Multi-agent Learning of Causal Networks in the Internet of Things"* 21st International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS). Guimaraes, Portugal, 12-14/07/2023.
  - [[C24]](https://smarianimore.github.io/2023-emas-JaCaMo-WLDT/) *"Towards developing Digital Twin enabled Multi-Agent Systems"* 11th International Workshop on Engineering Multi-Agent Systems (EMAS). London, UK, 29-30/06/2023.
 
 **2022**
