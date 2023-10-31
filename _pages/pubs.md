@@ -80,9 +80,10 @@ Enjoy :)
 
 **2023**
 
- - [[C60]](https://ieeexplore.ieee.org/document/10178747) *"A Chatbot-based Recommendation Framework for Hypertensive Patients"* 2023 IEEE 36th International Symposium on Computer-Based Medical Systems. 
- - [[C59]](https://link.springer.com/chapter/10.1007/978-3-031-37616-0_14) *"Multi-agent Learning of Causal Networks in the Internet of Things"* 21st International Conference on Practical Applications of Agents and Multi-Agent Systems. 
- - [[C58]](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2807.pdf) *"Towards Multi-agent Learning of Causal Networks"* 22nd International Conference on Autonomous Agents and Multiagent Systems.
+ - [[C61]](https://ieeexplore.ieee.org/document/10271919) *"Digital Twin & Blockchain: Technology Enablers for Metaverse Computing"* 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom).
+ - [[C60]](https://ieeexplore.ieee.org/document/10178747) *"A Chatbot-based Recommendation Framework for Hypertensive Patients"* 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS). 
+ - [[C59]](https://link.springer.com/chapter/10.1007/978-3-031-37616-0_14) *"Multi-agent Learning of Causal Networks in the Internet of Things"* 21st International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS). 
+ - [[C58]](https://www.ifaamas.org/Proceedings/aamas2023/pdfs/p2807.pdf) *"Towards Multi-agent Learning of Causal Networks"* 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS).
 
 **2022**
 
