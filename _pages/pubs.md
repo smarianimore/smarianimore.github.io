@@ -80,6 +80,7 @@ Enjoy :)
 
 **2023**
 
+ - [[C62]](https://link.springer.com/chapter/10.1007/978-3-031-48539-8_12) *"Towards Developing Digital Twin Enabled Multi-Agent Systems"* 2023 11th International Workshop on Engineering Multi-Agent Systems (EMAS).
  - [[C61]](https://ieeexplore.ieee.org/document/10271919) *"Digital Twin & Blockchain: Technology Enablers for Metaverse Computing"* 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom).
  - [[C60]](https://ieeexplore.ieee.org/document/10178747) *"A Chatbot-based Recommendation Framework for Hypertensive Patients"* 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS). 
  - [[C59]](https://link.springer.com/chapter/10.1007/978-3-031-37616-0_14) *"Multi-agent Learning of Causal Networks in the Internet of Things"* 21st International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS). 
