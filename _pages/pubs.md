@@ -28,6 +28,7 @@ Enjoy :)
 
 **2023**
 
+ - [[R24]](https://lmcs.episciences.org/12707) *"Space-Fluid Adaptive Sampling by Self-Organisation"* Logical Methods in Computer Science. EPIsciences.
  - [[R23]](https://www.mdpi.com/1999-5903/15/11/350) *"Digital Management of Competencies in Web 3.0: The C-Box® Approach"* Future Internet. MDPI
  - [[R22]](https://doi.org/10.1007/s10472-023-09884-9) *"Agents and Digital Twins for the engineering of Cyber-Physical Systems: opportunities, and challenges"* Annals of Mathematics and Artificial Intelligence. Springer.
  - [[R21]](https://doi.org/10.1016/j.cmpb.2023.107525) *"A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends"* Computer Methods and Programs in Biomedicine. Elsevier.
