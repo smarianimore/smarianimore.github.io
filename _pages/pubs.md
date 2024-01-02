@@ -111,7 +111,7 @@ Enjoy :)
  
  - [[C46]](http://dx.doi.org/10.1007/978-3-030-23813-1_6) *"Smart Contracts are More than Objects: Pro-activeness on the Blockchain."* Advances in Intelligent Systems and Computing: Blockchain and Applications. Springer.
  - [[C45]](https://dl.acm.org/doi/10.5555/3306127.3332028) *"ViTALiSE: Virtual to Augmented Loop in Smart Environments."* Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems. International Foundation for Autonomous Agents and Multiagent Systems.
- - [[C44]](https://www.scopus.com/record/display.uri?eid=2-s2.0-85075929408&origin=inward) *"Case studies for a new IoT programming paradigm: Fluidware."* 1st Workshop on Artificial Intelligence and Internet of Things. CEUR Workshop Proceedings.
+ - [[C44]](https://ceur-ws.org/Vol-2502/paper6.pdf) *"Case studies for a new IoT programming paradigm: Fluidware."* 1st Workshop on Artificial Intelligence and Internet of Things. CEUR Workshop Proceedings.
  - [[C43]](http://dx.doi.org/10.1007/978-3-030-24299-2_7) *"Comparative Analysis of Blockchain Technologies under a Coordination Perspective."* Communications in Computer and Information Science. Springer.
  - [[C42]](http://dx.doi.org/10.1109/ICCCN.2019.8846916) *"TuSoW: Tuple Spaces for Edge Computing."* Proceedings of the 28th International Conference on Computer Communication and Networks. IEEE.
  - [[C41]](http://dx.doi.org/10.1109/CBMS.2019.00069) *"Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration."* Proceedings of the 32nd International Symposium on Computer-Based Medical Systems. IEEE.
