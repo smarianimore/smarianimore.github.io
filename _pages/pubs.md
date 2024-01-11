@@ -81,6 +81,7 @@ Enjoy :)
 
 **2023**
 
+ - [[C63]](https://ieeexplore.ieee.org/document/10336011) *"Learning Stigmergic Communication for Self-organising Coordination"* 2023 4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS).
  - [[C62]](https://link.springer.com/chapter/10.1007/978-3-031-48539-8_12) *"Towards Developing Digital Twin Enabled Multi-Agent Systems"* 2023 11th International Workshop on Engineering Multi-Agent Systems (EMAS).
  - [[C61]](https://ieeexplore.ieee.org/document/10271919) *"Digital Twin & Blockchain: Technology Enablers for Metaverse Computing"* 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom).
  - [[C60]](https://ieeexplore.ieee.org/document/10178747) *"A Chatbot-based Recommendation Framework for Hypertensive Patients"* 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS). 
