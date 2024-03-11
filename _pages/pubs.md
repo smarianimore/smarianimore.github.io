@@ -194,6 +194,10 @@ Enjoy :)
 
 ### Conferences
 
+**2024**
+
+ - [[C27]](https://smarianimore.github.io/2024-comorea-causal-mas/) *"Distributed Discovery of Causal Networks in Pervasive Environments"* 20th Workshop on Context and Activity Modelling and Recognition (CoMoReA). Biarritz, France, 11/3/2024.
+
 **2023**
 
  - [[C26]](https://smarianimore.github.io/2023-acsos-RL-swarms/) *"Learning Stigmergic Communication for Self-organising Coordination"* 4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS). Toronto, Canada, 25-29/09/2023.
