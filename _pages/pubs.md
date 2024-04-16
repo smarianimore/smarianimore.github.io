@@ -79,6 +79,10 @@ Enjoy :)
 
 ### Conferences
 
+**2024**
+
+ - [[C64]](https://ieeexplore.ieee.org/document/10454629) *"The Degree of Entanglement: Cyber-Physical Awareness in Digital Twin Applications"* 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC).
+
 **2023**
 
  - [[C63]](https://ieeexplore.ieee.org/document/10336011) *"Learning Stigmergic Communication for Self-organising Coordination"* 2023 4th IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS).
@@ -180,6 +184,7 @@ Enjoy :)
 
 ### Others
 
+ - [[A10]](https://www.sciencedirect.com/science/article/pii/S0169260724001366) 2024. *"Agent-based systems in healthcare."* Computer Methods and Programs in Biomedicine. Elsevier. *(editorial)*
  - [[A9]](https://drops.dagstuhl.de/opus/volltexte/2023/19182/pdf/dagrep_v013_i002_p071_23081.pdf) 2023. *"Agents on the Web."* Dagstuhl Reports. Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik. *(Dagstuhl report)*
  - [[A8]](https://doi.org/10.3390/app13053027) 2023. *"Special Issue 'Advances in Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
  - [[A7]](http://dx.doi.org/10.3390/app10155329) 2020. *"Special Issue 'Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
