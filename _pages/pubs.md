@@ -81,6 +81,7 @@ Enjoy :)
 
 **2024**
 
+ - [[C65]](https://ieeexplore.ieee.org/abstract/document/10502971) *"Distributed Discovery of Causal Networks in Pervasive Environments"* 2024 IEEE 20th Workshop on Context and Activity Modeling and Recognition (CoMoReA).
  - [[C64]](https://ieeexplore.ieee.org/document/10454629) *"The Degree of Entanglement: Cyber-Physical Awareness in Digital Twin Applications"* 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC).
 
 **2023**
