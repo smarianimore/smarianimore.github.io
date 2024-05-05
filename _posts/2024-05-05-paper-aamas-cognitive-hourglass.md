@@ -29,7 +29,7 @@ I think that the following excerpt explains better than anything our motivations
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/aamas-2024-hourglass-exerpt.png){: .align-center}
 
-In the rest of the paper, we propose a **Cognitive Hourglass** to tame the complexity of engineering applications on top of generative and agent technologies, by adopting [human compatible]() abstractions. 
+In the rest of the paper, we propose a **Cognitive Hourglass** to tame the complexity of engineering applications on top of generative and agent technologies, by adopting [human compatible](https://en.wikipedia.org/wiki/Human_Compatible) abstractions. 
 Take a look at the paper and **reach out to us if you wanna comment**: we are especially interested in *involving LLM experts in this discussion!*
 
 [Mail me](mailto:stefano.mariani@unimore.it) in case, peace.
