@@ -81,6 +81,7 @@ Enjoy :)
 
 **2024**
 
+ - [[C66]](https://dl.acm.org/doi/10.5555/3635637.3663262) *"The Cognitive Hourglass: Agent Abstractions in the Large Models Era"* 2024 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS).
  - [[C65]](https://ieeexplore.ieee.org/abstract/document/10502971) *"Distributed Discovery of Causal Networks in Pervasive Environments"* 2024 IEEE 20th Workshop on Context and Activity Modeling and Recognition (CoMoReA).
  - [[C64]](https://ieeexplore.ieee.org/document/10454629) *"The Degree of Entanglement: Cyber-Physical Awareness in Digital Twin Applications"* 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC).
 
