@@ -26,6 +26,10 @@ Enjoy :)
 
 ### Journals
 
+**2024**
+
+ - [[R25]](https://doi.org/10.1371/journal.pone.0306915) *"Islands of cooperation emerge by stigmergic interactions in iterated spatial games."* PLoS ONE.
+
 **2023**
 
  - [[R24]](https://lmcs.episciences.org/12707) *"Space-Fluid Adaptive Sampling by Self-Organisation"* Logical Methods in Computer Science. EPIsciences.
