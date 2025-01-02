@@ -28,6 +28,7 @@ Enjoy :)
 
 **2024**
 
+ - [[R26]](https://doi.org/10.1109/ACCESS.2024.3522362) *"Autonomous Mental Development at the Individual and Collective Levels: Concept and Challenges."* IEEE Access.
  - [[R25]](https://doi.org/10.1371/journal.pone.0306915) *"Islands of cooperation emerge by stigmergic interactions in iterated spatial games."* PLoS ONE.
 
 **2023**
@@ -85,6 +86,8 @@ Enjoy :)
 
 **2024**
 
+ - [[C68]](https://doi.org/10.1007/978-3-031-77367-9_20) *"Improving Reinforcement Learning-Based Autonomous Agents with Causal Models"* 2024 25th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA).
+ - [[C67]](https://ceur-ws.org/Vol-3735/paper_09.pdf) *"Multi-agent Reinforcement Learning for Cybersecurity: Approaches and Challenges"* 2024 25th Workshop "From Objects to Agents" (WOA).
  - [[C66]](https://dl.acm.org/doi/10.5555/3635637.3663262) *"The Cognitive Hourglass: Agent Abstractions in the Large Models Era"* 2024 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS).
  - [[C65]](https://ieeexplore.ieee.org/abstract/document/10502971) *"Distributed Discovery of Causal Networks in Pervasive Environments"* 2024 IEEE 20th Workshop on Context and Activity Modeling and Recognition (CoMoReA).
  - [[C64]](https://ieeexplore.ieee.org/document/10454629) *"The Degree of Entanglement: Cyber-Physical Awareness in Digital Twin Applications"* 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC).
@@ -190,6 +193,11 @@ Enjoy :)
 
 ### Others
 
+ - [[A15]](https://link.springer.com/chapter/10.1007/978-3-031-62146-8_10) 2024. *"Learning Opportunities in Collective Adaptive Systems."* Fluidware: Novel Approaches for Large-Scale IoT Systems. Springer. *(book chapter)*
+ - [[A14]](https://link.springer.com/chapter/10.1007/978-3-031-62146-8_7) 2024. *"Fluidware Meets Digital Twins."* Fluidware: Novel Approaches for Large-Scale IoT Systems. Springer. *(book chapter)*
+ - [[A13]](https://link.springer.com/chapter/10.1007/978-3-031-62146-8_6) 2024. *"Space-Fluid and Time-Fluid Programming."* Fluidware: Novel Approaches for Large-Scale IoT Systems. Springer. *(book chapter)*
+ - [[A12]](https://link.springer.com/chapter/10.1007/978-3-031-62146-8_4) 2024. *"Towards an IoT-Oriented Software Engineering Methodology."* Fluidware: Novel Approaches for Large-Scale IoT Systems. Springer. *(book chapter)*
+ - [[A11]](https://link.springer.com/chapter/10.1007/978-3-031-62146-8_2) 2024. *"Programming Approaches for Large-Scale IoT System Development: State of the Art."* Fluidware: Novel Approaches for Large-Scale IoT Systems. Springer. *(book chapter)*
  - [[A10]](https://www.sciencedirect.com/science/article/pii/S0169260724001366) 2024. *"Agent-based systems in healthcare."* Computer Methods and Programs in Biomedicine. Elsevier. *(editorial)*
  - [[A9]](https://drops.dagstuhl.de/opus/volltexte/2023/19182/pdf/dagrep_v013_i002_p071_23081.pdf) 2023. *"Agents on the Web."* Dagstuhl Reports. Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik. *(Dagstuhl report)*
  - [[A8]](https://doi.org/10.3390/app13053027) 2023. *"Special Issue 'Advances in Multi-Agent Systems': Editorial."* Applied Sciences. MDPI. *(editorial)*
