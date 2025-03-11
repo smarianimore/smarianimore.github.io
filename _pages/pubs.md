@@ -26,6 +26,12 @@ Enjoy :)
 
 ### Journals
 
+**2025**
+
+ - [[R29]](https://doi.org/10.1016/j.iswa.2025.200495) *"Multi-Agent Reinforcement Learning for Cybersecurity: Classification and survey."* Elsevier Intelligent Systems with Applications.
+ - [[R28]](https://doi.org/10.1016/j.iot.2025.101560) *"Distributing intelligent functionalities in the Internet of Things with agents and Digital Twins."* Elsevier Internet of Things.
+ - [[R27]](https://doi.org/10.1016/j.iot.2025.101548) *"Programming IoT systems: A focused conceptual framework and survey of approaches."* Elsevier Internet of Things.
+
 **2024**
 
  - [[R26]](https://doi.org/10.1109/ACCESS.2024.3522362) *"Autonomous Mental Development at the Individual and Collective Levels: Concept and Challenges."* IEEE Access.
