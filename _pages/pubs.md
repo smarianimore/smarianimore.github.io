@@ -219,6 +219,10 @@ Enjoy :)
 
 ### Conferences
 
+**2025**
+
+ - [[C28]](https://smarianimore.github.io/2025-causal-dt-isiot) *"Towards Intelligent Monitoring and Control of Industrial Internet of Things Deployments with Causality-aware Digital Twins"* 7th International Workshop on Intelligent Systems for the Internet of Things (ISIoT). Lucca, Italy, 9/6/2025.
+
 **2024**
 
  - [[C27]](https://smarianimore.github.io/2024-comorea-causal-mas/) *"Distributed Discovery of Causal Networks in Pervasive Environments"* 20th Workshop on Context and Activity Modelling and Recognition (CoMoReA). Biarritz, France, 11/3/2024.
