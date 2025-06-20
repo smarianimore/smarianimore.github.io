@@ -7,27 +7,30 @@ toc_icon: "fas fa-book-open"
 
 ## Overview
 
-My research activity revolves around two prominent themes: how to best **coordinate** an ensamble of digital entities towards a systemic goal, and how to provide **"intelligent" support** to human activities through digital tools.
+My research activity revolves around one prominent themes: how to best **coordinate** an ensamble of digital entities towards a systemic goal.
 
-As such, I'm **doing** (or did) research activities in the following fields:
+As such, I'm **doing** (or did) research activities in the following fields (exemplary, meant to give a rough idea of my research topics):
  - **learning to coordinate** in multi-agent systems
- - **argumentation-based coordination**
- - **causal reasoning** in multi-agent systems
- - self-organising mechanisms and systems
+ - **distributed causal reasoning** in multi-agent systems
+ - **self-organising mechanisms and systems**
+ - **cooperation of Autonomous Agents and Digital Twins**
+ - argumentation-based coordination
  - socio-cognitive models of behaviour and interaction to enhance coordination mechanisms
  - logic programming as a form of "Edge intelligence"
  - blockchain technologies and smart contracts for distributed and decentralised coordination
- - application of the above to pervasive systems such as the **Internet of Things**
- - application of the above to socio-technical systems such as information systems
- - **decision support systems in healthcare** applications for patient empowerment 
- - decision support systems in healthcare applications for clinical practice 
 
+**Application** of the above research lines span:
+ - pervasive systems such as the **Internet of Things**, Industry 4.0+, Cyber-Physical Systems in general
+ - swarm robotics
+ - cooperative driving
+ - socio-technical systems such as information management systems
+ - decision support systems in healthcare applications for patient empowerment and clinical practice
 
 ## Learning to coordinate
 
 <figure style="width: 50%" class="align-left">
-  <a href="https://doi.org/10.1109/PerComWorkshops51409.2021.9431003"><img src="{{ site.url }}{{ site.baseurl }}/assets/comorea.png" alt="A first approach to learning to coordinate with Bayesian networks."></a>
-  <figcaption>A first approach to learning to coordinate with Bayesian networks. Adjacent rooms learn to coordinate window operation to set luminosity.</figcaption>
+  <a href="https://doi.org/10.1109/PerComWorkshops51409.2021.9431003"><img src="{{ site.url }}{{ site.baseurl }}/assets/self-org.png" alt="Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means."></a>
+  <figcaption>Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means.</figcaption>
 </figure> 
 
 **Problem**: Agents in multi-agent systems are usually equipped with *pre-defined interaction* means (e.g. messaging abilities)
@@ -38,12 +41,13 @@ This cannot cope with highly dynamic scenarios demanding for adaptation.
 
 **Goal**: *Improve agents adaptation* abilities also along the interaction dimension of computation.
 
-**Methods**: Transfer (multi-agent) *reinforcement and Bayesian learning* techniques 
+**Methods**: Transfer (multi-agent) *reinforcement learning* techniques 
 to the multi-agent domain and across coordination tasks.
 
 **Reference publications**:
- - [Developing a "Sense of Agency" in IoT Systems: Preliminary Experiments in a Smart Home Scenario](https://doi.org/10.1109/PerComWorkshops51409.2021.9431003) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [Argumentation-Based Coordination in IoT: A Speaking Objects Proof-of-Concept](https://doi.org/10.1007/978-3-030-34914-1_17) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Learning Stigmergic Communication for Self-organising Coordination](https://ieeexplore.ieee.org/document/10336011)
+ - [Developing a "Sense of Agency" in IoT Systems: Preliminary Experiments in a Smart Home Scenario](https://ieeexplore.ieee.org/document/9431003)
+ - [An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections](https://ieeexplore.ieee.org/document/9680501)
 
 ## Coordination in socio-technical systems
 
