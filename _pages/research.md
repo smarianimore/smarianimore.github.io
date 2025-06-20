@@ -54,8 +54,6 @@ to the multi-agent domain and across coordination tasks.
 ## Distributed causal reasoning
 
 <figure style="width: 50%" class="align-left">
-    <br>
-    <br>
   <a href="https://smarianimore.github.io/2024-comorea-causal-mas/"><img src="{{ site.url }}{{ site.baseurl }}/assets/ground-truth-partitioned.png" alt="Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means."></a>
   <figcaption>Agents learn the cause-effect relationships relating their own variables, even with the ones controlled by another agent.</figcaption>
 </figure> 
@@ -79,8 +77,6 @@ to a distributed setting.
 ## Modular intelligence with Agents and Digital Twins
 
 <figure style="width: 50%" class="align-left">
-    <br>
-    <br>
   <a href="https://smarianimore.github.io/2022-emas-DT-mas/"><img src="{{ site.url }}{{ site.baseurl }}/assets/2024-toit-si-architecture-aa-dt.png" alt="."></a>
   <figcaption>Autonomous software Agents and Digital Twins are not overlapping techniques and their synergies must be carefully leveraged by design.</figcaption>
 </figure> 
@@ -152,9 +148,6 @@ develop a full-fledged design methodology.
 ## Decision support systems in healthcare
 
 <figure style="width: 50%" class="align-left">
-    <br>
-    <br>
-    <br>
   <a href=""><img src="{{ site.url }}{{ site.baseurl }}/assets/dss.png" alt="A novel decision support system architecture helps scientists and clinicians collaboration."></a>
   <figcaption>The novel decision support system architecture designed during the <a href="https://connecare.eu">Connecare project</a>.</figcaption>
 </figure>
