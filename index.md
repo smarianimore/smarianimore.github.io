@@ -8,26 +8,29 @@ title: "Stefano Mariani's website"
 
 Welcome :)
 
-I'm Stefano Mariani, post-doc **researcher** and adjunct professor in the [Distributed and Pervasive Intelligence Group](http://dipi.unimore.it) at the [**Department of Sciences and Methods for Engineering**](https://www.dismi.unimore.it/site/en/home.html) of the **University of Modena and Reggio Emilia**, Italy.
+I'm Stefano Mariani, **tenure-track** researcher ("RTD-b") in the [Distributed and Pervasive Intelligence Group](http://dipi.unimore.it) at the [**Department of Sciences and Methods for Engineering**](https://www.dismi.unimore.it/site/en/home.html) of the **University of Modena and Reggio Emilia**, Italy.
 On my spare time (lol) I enjoy music, basketball, and being a father of three---although as females they often prefer fairies and makeup to dinosaurs and robots...oh well.
 
 Now, back to business.
 
 ## Current position
 
- - Post-doc researcher at the Department of Sciences and Methods for Engineering of the University of Modena and Reggio Emilia, Italy ("RTD-b", in Italian)
- - Adjunct professor for the course of [Fundamentals of Programming](https://dolly.ingre.unimore.it/2020/course/view.php?id=132)[^1] in the Bachelor Degree in Management Engineering of the same University
- - Professor for the course of [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb) in the XXXVI Cycle of the Doctorate School in Industrial Innovation Engineering of the same University
+Tenure-track researcher at the Department of Sciences and Methods for Engineering of the University of Modena and Reggio Emilia, Italy ("RTD-b", in Italian)
 
 ## Current research
 
- - WP leader for the Italian MIUR PRIN 2017 [project "Fluidware"](https://fluidware-project.github.io), to develop a **novel programming model for IoT services and applications**, and the associated supporting platform, engineering methodologies, and tools, to ease the development of flexible and robust large-scale IoT services and applications
+PI for the FAR project ["CO-OPTION"](https://drive.google.com/file/d/10MdOD4w54qyMoiC_LwIMXYGvQGu9KG1I/view?usp=sharing). 
+
+The project aims to address **human cooperation in the sustainable management of public goods**, examining how institutional punishments and corruption affect collaboration. Using an approach that combines behavioural economics, game theory, and artificial intelligence, the project studies complex scenarios to improve policies and governance models. The results could be applied to areas such as natural resource management and labour market regulation.
+
+More on my research interests in the [dedicated section of the website](https://smarianimore.github.io/research/).
 
 ## Current teaching
 
- - Adjunct professor for the course of [Fundamentals of Programming](https://dolly.ingre.unimore.it/2020/course/view.php?id=132)[^1] in the Bachelor Degree in Management Engineering of the same University, where I use Python as a reference language for basic programming concepts, such as variables, functions, and I/O
- - Professor for the course of [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb) in the XXXVI Cycle of the Doctorate School in Industrial Innovation Engineering of the same University
- - [Seminar about blockchain](https://github.com/smarianimore/dief-daiseminar2020) technology for the course of Distributed Artificial Intelligence at the Master degree in Computer Engineering at the University of Modena and Reggio Emilia
- - [Seminar about blockchain](https://github.com/smarianimore/dismi-dsm) technology for the course of Advanced Information Systems at the Master degree in Management Engineering at the University of Modena and Reggio Emilia
-
-[^1]: If prompted for login, use guest login with key *Goedel*.
+- [Professor]((https://personale.unimore.it/rubrica/insegnamenti/s.mariani)) of the courses
+  - Fundamentals of Programming, in the Bachelor Degree in Management Engineering
+  - Artificial Intelligence and Data Science, in the Master Degree in Digital Automation Engineering
+  - Distributed Artificial Intelligence, in the Master Degree Course in Artificial Intelligence Engineering
+- Professor of the [PhD courses](http://www.iii.unimore.it/site/home/courses.html) in the Doctorate School in Industrial Innovation Engineering
+    - [Multi-Agent Reinforcement Learning](https://github.com/smarianimore/2024-PhD-course-MARL)
+    - [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb)
