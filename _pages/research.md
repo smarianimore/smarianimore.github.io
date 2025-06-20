@@ -26,6 +26,10 @@ As such, I'm **doing** (or did) research activities in the following fields (exe
  - socio-technical systems such as information management systems
  - decision support systems in healthcare applications for patient empowerment and clinical practice
 
+Below, the main research activities I'm currently carrying on are briefly described further, 
+along with the reference publications to checkou if you are interested. 
+If any of these is paywalled, [ask me a copy](mailto:stefano.mariani@unimore.it) asap :)
+
 ## Learning to coordinate
 
 <figure style="width: 50%" class="align-left">
@@ -89,7 +93,7 @@ and fragments the research landscape.
 **Solution**: Clarify the relationships and roles of agents and DTs 
 according to well-defined software engineering principles. 
 
-**Goal**: *Promote modularity and reusability** of technical solutions to avoid reinventing the wheel 
+**Goal**: *Promote modularity and reusability* of technical solutions to avoid reinventing the wheel 
 and to maximise the synergies between autonomous agents and DTs.
 
 **Methods**: Define clear design principles inspired to the overarching "separation of concerns", 
@@ -118,7 +122,7 @@ develop a full-fledged design methodology.
 <br>
 
 **Reference publications**:
- - [Coordination in Socio-technical Systems: Where are we now? Where do we go next?](https://doi.org/10.1016/j.scico.2019.102317) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Coordination in Socio-technical Systems: Where are we now? Where do we go next?](https://doi.org/10.1016/j.scico.2019.102317)
  - [An Argumentation-Based Perspective Over the Social IoT](https://rdcu.be/caUtN)
  - [Coordination of Complex Sociotechnical Systems: Self-organisation of Knowledge in MoK](https://doi.org/10.1007/978-3-319-47109-9) (book)
 
@@ -171,5 +175,5 @@ develop a full-fledged design methodology.
 
 **Reference publications**:
  - [Developing an ML pipeline for asthma and COPD: The case of a Dutch primary care service](https://doi.org/10.1002/int.22568)
- - [Augmenting BDI Agency with a Cognitive Service: Architecture and Validation in Healthcare Domain](https://doi.org/10.1007/s10916-021-01780-1) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration](https://doi.org/10.1109/CBMS.2019.00069) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Augmenting BDI Agency with a Cognitive Service: Architecture and Validation in Healthcare Domain](https://doi.org/10.1007/s10916-021-01780-1)
+ - [Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration](https://doi.org/10.1109/CBMS.2019.00069)
