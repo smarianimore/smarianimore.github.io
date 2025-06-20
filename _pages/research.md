@@ -29,7 +29,7 @@ As such, I'm **doing** (or did) research activities in the following fields (exe
 ## Learning to coordinate
 
 <figure style="width: 50%" class="align-left">
-  <a href="https://doi.org/10.1109/PerComWorkshops51409.2021.9431003"><img src="{{ site.url }}{{ site.baseurl }}/assets/self-org.png" alt="Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means."></a>
+  <a href="https://smarianimore.github.io/2023-acsos-RL-swarms/"><img src="{{ site.url }}{{ site.baseurl }}/assets/self-org.png" alt="Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means."></a>
   <figcaption>Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means.</figcaption>
 </figure> 
 
@@ -48,6 +48,55 @@ to the multi-agent domain and across coordination tasks.
  - [Learning Stigmergic Communication for Self-organising Coordination](https://ieeexplore.ieee.org/document/10336011)
  - [Developing a "Sense of Agency" in IoT Systems: Preliminary Experiments in a Smart Home Scenario](https://ieeexplore.ieee.org/document/9431003)
  - [An Adaptive Approach for the Coordination of Autonomous Vehicles at Intersections](https://ieeexplore.ieee.org/document/9680501)
+
+## Distributed causal reasoning
+
+<figure style="width: 50%" class="align-left">
+  <a href="https://smarianimore.github.io/2024-comorea-causal-mas/"><img src="{{ site.url }}{{ site.baseurl }}/assets/ground-truth-partitioned.png" alt="Learning to coordinate in swarms: agents learn to send/receive pheromone signals as a communication means."></a>
+  <figcaption>Agents learn the cause-effect relationships relating their own variables, even with the ones controlled by another agent.</figcaption>
+</figure> 
+
+**Problem**: The *causal relationships* amongst variables in a system (e.g. sensors and actuators in a smart home) are usually implicitly encoded in the way we program the software agents controlling such variables. 
+This can be problematic if we don't have full design-time knowledge of such relationships, 
+or if the system needs to adapt to contingencies.
+
+**Solution**: *Let agents learn* what the causal relationships are.
+
+**Goal**: *Improve agents adaptation* abilities by making sense of their surrounding environment (virtual or physical).
+
+**Methods**: Transfer *causal learning* techniques
+to a distributed setting.
+
+**Reference publications**:
+- [Distributed Discovery of Causal Networks in Pervasive Environments](https://ieeexplore.ieee.org/abstract/document/10502971)
+- [Improving Reinforcement Learning-Based Autonomous Agents with Causal Models](https://link.springer.com/chapter/10.1007/978-3-031-77367-9_20)
+- [Developing a "Sense of Agency" in IoT Systems: Preliminary Experiments in a Smart Home Scenario](https://ieeexplore.ieee.org/document/9431003)
+
+## Modular intelligence with Agents and Digital Twins
+
+<figure style="width: 50%" class="align-left">
+  <a href="https://smarianimore.github.io/2022-emas-DT-mas/"><img src="{{ site.url }}{{ site.baseurl }}/assets/2024-toit-si-architecture-aa-dt.png" alt="."></a>
+  <figcaption>Autonomous software Agents and Digital Twins are not overlapping techniques and their synergies must be carefully leveraged by design.</figcaption>
+</figure> 
+
+**Problem**: *Autonomous software agents* and *Digital Twins* (DTs) seem somewhat *overlapping* concepts according to a notable amount of literature, 
+and their synergies are exploited mostly in an ad-hoc way heavily driven by specific applications and domains.
+This inevitably leads to *reinventing the wheel* for new deployments, 
+and fragments the research landscape.
+
+**Solution**: Clarify the relationships and roles of agents and DTs 
+according to well-defined software engineering principles. 
+
+**Goal**: *Promote modularity and reusability** of technical solutions to avoid reinventing the wheel 
+and to maximise the synergies between autonomous agents and DTs.
+
+**Methods**: Define clear design principles inspired to the overarching "separation of concerns", 
+derive suitable blueprints for software architectures, 
+develop a full-fledged design methodology.
+
+**Reference publications**:
+- [Distributing intelligent functionalities in the Internet of Things with agents and Digital Twins](https://www.sciencedirect.com/science/article/pii/S2542660525000733?via%3Dihub)
+- [Agents and Digital Twins for the engineering of Cyber-Physical Systems: opportunities, and challenges](https://link.springer.com/article/10.1007/s10472-023-09884-9)
 
 ## Coordination in socio-technical systems
 
@@ -71,7 +120,7 @@ to the multi-agent domain and across coordination tasks.
 
 [^1]: According to my own interpretation, briefly: *systems featuring "humans-in-the-loop" which are not merely users but actively contribute in the system's own functioning*. For the original definition see [Trist](https://www.lmmiller.com/blog/wp-content/uploads/2013/06/The-Evolution-of-Socio-Technical-Systems-Trist.pdf) and [Baxter-Sommerville](https://ieeexplore.ieee.org/abstract/document/8147295) (paywall).
 
-## Coordination in pervasive systems
+<!--## Coordination in pervasive systems
 
 <figure style="width: 50%" class="align-left">
   <a href="https://doi.org/10.1007/978-3-030-34914-1_17"><img src="{{ site.url }}{{ site.baseurl }}/assets/speaking.jpeg" alt="Speaking objects endow IoT devices with goal-oriented behaviour and dialogical interaction."></a>
@@ -86,9 +135,11 @@ to the multi-agent domain and across coordination tasks.
 
 **Methods**: Endow devices with *learning* capabilities and *goal-oriented* behaviour, and the system with rich forms of interaction (e.g. *argumentation*).
 
+<br>
+
 **Reference publications**:
  - [Coordinating Distributed Speaking Objects](https://doi.org/10.1007/978-3-030-34914-1_17) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
- - [Spatial Tuples: Augmenting Reality with Tuples](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12273) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))
+ - [Spatial Tuples: Augmenting Reality with Tuples](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12273) (paywall, [ask me a copy](mailto:stefano.mariani@unimore.it))-->
 
 ## Decision support systems in healthcare
 
