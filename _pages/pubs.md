@@ -28,6 +28,7 @@ Enjoy :)
 
 **2025**
 
+ - [[R30]](https://www.sciencedirect.com/science/article/pii/S235271102500278X) *"MininetGym: A modular SDN-based simulation environment for reinforcement learning in cybersecurity."* Elsevier SoftwareX.
  - [[R29]](https://doi.org/10.1016/j.iswa.2025.200495) *"Multi-Agent Reinforcement Learning for Cybersecurity: Classification and survey."* Elsevier Intelligent Systems with Applications.
  - [[R28]](https://doi.org/10.1016/j.iot.2025.101560) *"Distributing intelligent functionalities in the Internet of Things with agents and Digital Twins."* Elsevier Internet of Things.
  - [[R27]](https://doi.org/10.1016/j.iot.2025.101548) *"Programming IoT systems: A focused conceptual framework and survey of approaches."* Elsevier Internet of Things.
@@ -89,6 +90,11 @@ Enjoy :)
  - [[R1]](http://scs.org/wp-content/uploads/2016/12/2_MarianiOmicini.pdf) 2014. *"Coordination Mechanisms for the Modelling and Simulation of Stochastic Systems: The Case of Uniform Primitives."* International Modeling & Simulation Magazine. Society for Modeling & Simulation.
 
 ### Conferences
+
+**2025**
+
+ - [[C70]](https://www.computer.org/csdl/proceedings-article/dcoss-iot/2025/437200a544/28VR5BwIQuI) *"Towards Intelligent Monitoring and Control of Industrial Internet of Things Deployments with Causality-Aware Digital Twins"* 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT).
+ - [[C69]](https://www.computer.org/csdl/proceedings-article/dcoss-iot/2025/437200a798/28VR617sxBm) *"Differentiation of Behaviors in Learning Pheromone-Based Communication"* 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT).
 
 **2024**
 
