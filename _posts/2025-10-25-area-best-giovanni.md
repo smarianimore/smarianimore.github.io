@@ -13,7 +13,7 @@ header:
 ---
 
 Dear fellow researchers, [ECAI'25 just concluded](https://ecai2025.org/), and with it also its workshops, too. 
-There, [Giovanni Briglia](https://giovannibriglia.github.io/) (and we co-authors, too) had a very nice surprise: his very first **best paper award** :) Of course, we hope that's just the start for him 🚀
+At the workshop [AREA](https://areaworkshop.github.io/AREA2025/), [Giovanni Briglia](https://giovannibriglia.github.io/) (and we co-authors, too) had a very nice surprise: his very first **best paper award** :) Of course, we hope that's just the start for him 🚀
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/giovanni-ecai-best-rotated.jpeg){: .align-center}
 
@@ -38,9 +38,11 @@ By testing on the 🧭 Navigation, 🐦 Flocking, and🚦 Give-Way scenarios tak
   - 📉 Reduced variance in performance
   - ⚖️ Mixed outcomes depending on task complexity and algorithm cooperation level
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/complete_aggregate_scores.png){: .align-center}
+
 The takeaway message is that **causal learning and reasoning** can enhance safety and performance in MRS, but that **collaborative causal discovery** is likely to unlock even better results!
 
 Feel free to [contact me](mailto:stefano.mariani@unimore.it) for a pre-print, any inquiry, or even better **to join us** in this research :)
-📂 Code & experiments: https://github.com/Giovannibriglia/CausalBenchMARL
+📂 Code & experiments: [https://github.com/Giovannibriglia/CausalBenchMARL](https://github.com/Giovannibriglia/CausalBenchMARL)
 
 Peace.
