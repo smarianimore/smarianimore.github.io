@@ -93,6 +93,8 @@ Enjoy :)
 
 **2025**
 
+ - [[C72]](https://link.springer.com/chapter/10.1007/978-3-032-13562-9_40) *"On the Role of Causal Reasoning in Autonomous Agents and Multi-Agent Systems"* 2025 26th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA).
+ - [[C71]](https://link.springer.com/chapter/10.1007/978-3-032-08049-3_4) *"Towards Safe Action Policies in Multi-robot Systems with Causal Reinforcement Learning"* 2025 5th Workshop on Agents and Robots for reliable Engineered Autonomy (AREA).
  - [[C70]](https://www.computer.org/csdl/proceedings-article/dcoss-iot/2025/437200a544/28VR5BwIQuI) *"Towards Intelligent Monitoring and Control of Industrial Internet of Things Deployments with Causality-Aware Digital Twins"* 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT).
  - [[C69]](https://www.computer.org/csdl/proceedings-article/dcoss-iot/2025/437200a798/28VR617sxBm) *"Differentiation of Behaviors in Learning Pheromone-Based Communication"* 2025 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT).
 
