@@ -229,6 +229,8 @@ Enjoy :)
 
 **2025**
 
+ - [[C29]](https://docs.google.com/presentation/d/1KR6c6OqBNA7Vf9V7AWXMFLzXBotoBZn7-kIszCxmMis/edit?usp=sharing) *"On the Role of Causal Reasoning
+in Autonomous Agents and Multi-agent Systems"* 26th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA). Modena, Italy, 17/12/2025.
  - [[C28]](https://smarianimore.github.io/2025-causal-dt-isiot) *"Towards Intelligent Monitoring and Control of Industrial Internet of Things Deployments with Causality-aware Digital Twins"* 7th International Workshop on Intelligent Systems for the Internet of Things (ISIoT). Lucca, Italy, 9/6/2025.
 
 **2024**
