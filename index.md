@@ -27,7 +27,7 @@ More on my research interests in the [dedicated section of the website](https://
 
 ## Current teaching
 
-- [Professor](https://unimore.coursecatalogue.cineca.it/docente-id/6953001d4a01aeb7aab89f01/2025) of the courses
+- [Professor](https://unimore.unifind.cineca.it/get/person/102650) of the courses
   - Fundamentals of Programming, in the Bachelor Degree in Management Engineering
   - Artificial Intelligence and Data Science, in the Master Degree in Digital Automation Engineering
   - Distributed Artificial Intelligence, in the Master Degree Course in Artificial Intelligence Engineering
