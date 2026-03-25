@@ -32,5 +32,5 @@ More on my research interests in the [dedicated section of the website](https://
   - Artificial Intelligence and Data Science, in the Master Degree in Digital Automation Engineering
   - Distributed Artificial Intelligence, in the Master Degree Course in Artificial Intelligence Engineering
 - Professor of the [PhD courses](http://www.iii.unimore.it/site/home/courses.html) in the Doctorate School in Industrial Innovation Engineering
-    - [Multi-Agent Reinforcement Learning](https://github.com/smarianimore/2024-PhD-course-MARL)
+    - [Multi-Agent Reinforcement Learning](https://github.com/smarianimore/2026-phd-marl)
     - [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb)
