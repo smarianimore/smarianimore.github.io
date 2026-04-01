@@ -28,9 +28,9 @@ More on my research interests in the [dedicated section of the website](https://
 ## Current teaching
 
 - [Professor](https://unimore.unifind.cineca.it/get/person/102650) of the courses
-  - Fundamentals of Programming, in the Bachelor Degree in Management Engineering
-  - Artificial Intelligence and Data Science, in the Master Degree in Digital Automation Engineering
-  - Distributed Artificial Intelligence, in the Master Degree Course in Artificial Intelligence Engineering
+  - [Fundamentals of Programming](https://www.youtube.com/playlist?list=PLu56TE55PP01qNK3RfqkxCUErxxPnJirw), in the Bachelor Degree in Management Engineering
+  - [Artificial Intelligence and Data Science](https://www.youtube.com/playlist?list=PLu56TE55PP01IMkCHxIzr2iyLae1a_FP0), in the Master Degree in Digital Automation Engineering
+  - [Distributed Artificial Intelligence](https://moodle.unimore.it/course/view.php?id=17452) (consensus, blockchain, MARL), in the Master Degree Course in Artificial Intelligence Engineering
 - Professor of the [PhD courses](http://www.iii.unimore.it/site/home/courses.html) in the Doctorate School in Industrial Innovation Engineering
-    - [Multi-Agent Reinforcement Learning](https://github.com/smarianimore/2026-phd-marl)
+    - [Multi-Agent Reinforcement Learning](https://www.youtube.com/playlist?list=PLu56TE55PP00F5cHfhWlUIdEKpbx-uVgd)
     - [Emerging IT technologies: Autonomous Systems and Blockchains](https://github.com/smarianimore/phdXXXVI-asb)
