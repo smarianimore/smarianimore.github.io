@@ -91,6 +91,10 @@ Enjoy :)
 
 ### Conferences
 
+**2026**
+
+ - [[C73]](https://www.scitepress.org/Link.aspx?doi=10.5220/0014300900004052) *"Experiences in Exploiting Reinforcement Learning for Network Traffic Classification and Attack Detection"* 2026 18th International Conference on Agents and Artificial Intelligence (ICAART).
+
 **2025**
 
  - [[C72]](https://link.springer.com/chapter/10.1007/978-3-032-13562-9_40) *"On the Role of Causal Reasoning in Autonomous Agents and Multi-Agent Systems"* 2025 26th International Conference on Principles and Practice of Multi-Agent Systems (PRIMA).
